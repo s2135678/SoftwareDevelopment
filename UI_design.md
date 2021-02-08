@@ -7,8 +7,20 @@ The homepage is the first thing seen by the user whether they have created an ac
 ### Searching
 The search bar executes searches for game titles, other publicly viewable players, or communities for games. The search results can be filtered by type of result (game, player, community), rating (for games), or source of ratings e.g. our own users, website affiliated ratings.
 
+### Suggestions
+Suggested communities and games are displayed in the main feed in a scrolling format. These are determined from the games and communities the user already engages with on their profile and games which other users of similar tastes play. 
+
+### Feeds
+Publisher updates of the games, including new versions, expansion packs, convention information, or new threads from communities the user is a part of are displayed here.
+
+### Sign up/Log in
+The sign up/log in option prompts users to enter their email address and password. Once these are verified as either an existing account or a new one has been made, the user is granted access to their own profile.
+
 # Game Page
 ![Game](uploads/cbdc2debb7a133ddc2ad06ce401e1a28/Game.jpg)
+
+### Overview
+
 
 # Player Page
 ![Player](uploads/774acd0badbba1ac51b7b56153473ce6/Player.jpg)

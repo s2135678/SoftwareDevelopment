@@ -1,11 +1,11 @@
 # Homepage
 ![Homepage_](uploads/bf3a397103b095767cff20d2bf9f7be9/Homepage_.jpg)
 
-## Overview
+### Overview
 The homepage is the first thing seen by the user whether they have created an account or are just browsing. There is a navigation bar with search functionality (games, players or communities), a button which redirects the user back to this homepage, and either the option to login/sign up if they have  not already, or access their own profile and communities directly.
 
-## Searching
-The seach bar executes searches for game titles, other publicly viewable players, or communities for games. The search results can be filtered by type of search (game, player, community), rating (for games), source of ratings (our own users, trusted sources such as )
+### Searching
+The search bar executes searches for game titles, other publicly viewable players, or communities for games. The search results can be filtered by type of result (game, player, community), rating (for games), or source of ratings e.g. our own users, website affiliated ratings.
 
 # Game Page
 ![Game](uploads/cbdc2debb7a133ddc2ad06ce401e1a28/Game.jpg)

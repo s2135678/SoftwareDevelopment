@@ -20,6 +20,21 @@ The sign up/log in option prompts users to enter their email address and passwor
 ![Game](uploads/cbdc2debb7a133ddc2ad06ce401e1a28/Game.jpg)
 
 ### Overview
+The game page holds information for each game including the rating (from our users), title, description, and images. From the game page, the user is able to access a variety of functions from the drop down menu.
+
+### FAQ
+This section holds frequently asked questions the game publisher has decided to publish. Users can ask the publisher any other queries they have directly with the submit function.
+
+### Community
+This previews a few of the most recent threads of discussion from the community page associated with the game. There is also a link which redirects the user directly to the community page for the game.
+
+### Buy Now
+Retailers (online or in person) are listed here with their price(s) and a link to their website. Since there is no platform to buy goods in our product, the users are free to investigate the retailers themselves which are helpfully managed in one section of this page.
+
+### Rules
+Similar to the FAQ section, this details publisher-approved rules for the game but allows users/players to submit rules or corrections of the game to be considered by the publisher.
+
+### Ratings/Reviews
 
 
 # Player Page

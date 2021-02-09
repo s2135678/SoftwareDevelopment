@@ -35,16 +35,46 @@ Retailers (online or in person) are listed here with their price(s) and a link t
 Similar to the FAQ section, this details publisher-approved rules for the game but allows users/players to submit rules or corrections of the game to be considered by the publisher.
 
 ### Ratings/Reviews
-
+Ratings/reviews allow the user to see what others think of the game and also add their own review. The ratings can be filtered using the same method as in the search filters of the homepage- by source.
 
 # Player Page
 ![Player](uploads/774acd0badbba1ac51b7b56153473ce6/Player.jpg)
 
+### Overview
+The player page displays information on the user including a small "about" section, their games, and their communities. The same UI is used for viewing your own page as when looking at someone else's, with the addition of editing functionality.
+
+### Your profile
+With your own profile, the about section can be edited, and games/communities can be added in order to personalize suggestions, and so other users can find you. The latter is only enabled if privacy settings are set to "public" in the account settings. The account settings page is accessible from your own profile only.
+
+### Other user's profile
+When viewing other user's profile, you can see games and communities they have added to their profile, and can access the associated pages directly through these links.
+
 # Community Page
 ![Community](uploads/b941d6b2f17b47589096e3abe7f50525/Community.jpg)
 
+### Overview
+There are two distinct layers to the community page- the first later is a homepage-like interface which displays suggested discussion threads (based on your games/communities) and allows users to search for communities. The layer below this, is the game-specific community page. 
+
+### Community home
+The page serves the purpose of helping users navigate the communities. It is accessed from the home page by clicking on the "my communities" page. All pages are accessible through the search function and the suggested communities allows users to discover new games and conversations that similar users enjoyed.
+
+### Game specific community
+This page hosts the discussion threads relating to specific threads, and also local clubs/events for that game. The local clubs and events are only displayed if location services have been allowed in the account settings and are displayed on an interactive map interface. The events are displayed in a calendar view. Users can comment on discussion threads for games regardless of whether they have added the game to their profile or not. This is the page users are directed to if they access a game specific community through another user's profile, or through the "suggested communities" links.
+
 # Account Settings
 ![Settings](uploads/a04cc29483ce65fbfe8ab4ff15a29b31/Settings.jpg)
+
+### Overview
+The account settings are accessed through your own profile and detail the privacy, location, and accessibility settings which personalise the user's experience using the software.
+
+### Location Sharing
+Location is only used to determine local clubs and events relating to games the user has searched for or is a player of. In particular, on the game-specific community page, the location is used to generate a map of the in-person clubs/meetups that are in the area.
+
+### Privacy
+This allows the user to decide whether their own profile is publicly viewable or not. If set to private, users can still comment on community discussion threads, but other users cannot view the games or communities they play. If set to public, they can appear in general searches and their information is able to be viewed by any player.
+
+### Accessibility
+Users can personalise their UI according to their personal needs in a variety of ways. these include text-to-speech, colour theme choice, and adjustable text size for users who are visually impaired and closed captions on video elements for users who are hearing impaired.
 
 # Publisher Interface
 The idea of a separate interface for game publishers was explored, but when the technology required was discussed we concluded that we would focus on creating a slick and ergonomic interface for the players and focus our time on the one task. 

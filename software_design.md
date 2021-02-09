@@ -10,7 +10,7 @@ The last layer `Infrastructure Layer` is the most basic layer. It contains the `
 
 Users can use `Presentation Layer` to interact with the system, the action is then passed through the layers in an orderly fashion until the action is complete.
 
-![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/architectureDesign.jpg "software architecture") 
+![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/ArchitectureDesign.jpg "software architecture") 
 
 ## Component functionality
 ### Presentation Layer
@@ -29,7 +29,7 @@ In this example,  the user first need to finish the login work, then the system 
 
 
 ### Business Logic Layer (BLL)
-`Business Logic layer` has five main subsystems, which are `User Management`, `Publisher Management`, `Game Transaction`, 'Community Management' and `Game Management`. To realize all the requirements, there are seven classes in BLL, `userService`, `User`, `userCommunity`, `Publisher`, `Game`, `ratingService` and `reviewService`. Some functions of a system can be included in another system, for example, there is not a class for `Game Transaction` but its related function can be accessed in `User` class.
+`Business Logic layer` has five main subsystems, which are `User Management`, `Publisher Management`, `Game Transaction`, 'Community Management' and `Game Management`. `Game Management` has three subsystems, `Rating Management`, `Review Manegement` and `Expansion Management` To realize all the requirements, there are eight classes in BLL, `userService`, `User`, `userCommunity`, `Publisher`, `Game`, `ratingService`, `reviewService` and `gameExpansion`. Some functions of a system can be included in another system, for example, there is not a class for `Game Transaction` but its related function can be acessed in `User` class.
 
 The `user` class has four attributes, `userID`, `userName`, `password` and `email`. User class also has seven functions, `updateGame` update the game collection, `add` add game to game collection, `remove` remove the chosen game from his game collection, `postReview` post new review for chosen game, `postRules` post new rules to the chosen game (the rules also need to be checked by publisher), `updatePersonFile` update his own personal details, `sellgame` user also have the role seller, he can sell his game to others and decide the price of the game so that other user can decide whether to buy the game. 
 
@@ -45,7 +45,9 @@ The `ratingService` class provides several methods to modified game's rate and r
 
 The `reviewService` class has methods for players to post their review (`postReview`) and read others' reviews (`orderByGame` and `orderByUser`). There is also a weight system that can filter certain review sources (`orderByWeight`).
 
-![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/businessLayer.jpg "business layer") 
+The `gameExpansion` class have attributes, `expansionID`, `expansionName` and `expansionPrice` and two main functions, (`addExpansion`) and (`deleteExpansion`). This class can be used to manage expansions of games.
+
+![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/businessLogicLayer.jpg "business layer") 
 
 
 ### Data Layer

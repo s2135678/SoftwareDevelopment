@@ -10,7 +10,7 @@ The last layer `Infrastructure Layer` is the most basic layer. It contains the `
 
 Users can use `Presentation Layer` to interact with the system, the action is then passed through the layers in an orderly fashion until the action is complete.
 
-![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/ArchitectureDesign.jpg "software architecture") 
+![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/architectureDesign.jpg "software architecture") 
 
 ## Component functionality
 ### Presentation Layer

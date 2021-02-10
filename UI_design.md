@@ -13,7 +13,7 @@ We plan to implement following features to address accessibility criteria for us
 ## 3.2 Design Goals and Features 
 Our primary goal is to allow users to accomplish tasks in fast, easy and logical manner. To address this, we identified 3 key features, which we implemented into our UI design.
 
-### 1. Minimalistic Design
+### 3.2.1 Minimalistic Design
 
 Results from the survey suggest that most players find current game management and sourcing systems (e.g. Steam) disorganised and difficult to navigate, often displaying too much irrelevant information. Thus, we have focused on creating a minimalistic design by implementing 4 features. 
 
@@ -25,14 +25,14 @@ Thirdly, only one navigation bar is located at the top of each page. Many game c
 
 Lastly, our web application will use dark color palette (navy, black and dark grey) to contrast with vibrant colors of games and to reduce strains to eyes. However, other color options will also be available to take account of those with color disabilities (See 3.1 Accessibility). 
 
-### 2. Consistent Layout
+### 3.2.2 Consistent Layout
 
 Similar layout will be maintained for all pages of the web application. This increases user’s familiarity with the application and ensures easy navigation around the website. Some consistent features include: 
 * Information displayed in grey containers
 * Options to edit/add/remove/submit in black buttons
 * Dropdown menu options shwon in grey buttons
 
-### 3. Other features
+### 3.3.3 Other features
 * Texts and terminologies will use words familiar to players.
 * System status messages such as ‘Game added’ or ‘Searching…’ will be displayed to help users understand the outcome of their actions and determine next tasks. 
 * Options to undo or redo actions will be implemented with features such as ‘cancel’ or ‘edit’. This provides users with freedom to control their own actions and prevent errors. 

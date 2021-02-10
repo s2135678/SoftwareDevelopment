@@ -52,7 +52,7 @@ Similar layout will be maintained for all pages of the web application. This inc
 * To display recent news, updates and feeds
 
 #### User Interaction 
-* Users can browse through game and community suggestions and feeds using image carousel. Click on the arrows to view previous or next suggestion/feed.
+* Users can browse through game and community suggestions and feeds using the image carousel. Click on the arrows to view previous or next suggestion/feed.
 * Selecting an image directs users to corresponding game and community pages.
 
 **Navigation bar**
@@ -69,28 +69,18 @@ Similar layout will be maintained for all pages of the web application. This inc
     * My Communities: directs users to the community page
 
 **Search Tool**
-* Search tool has filters for the game type, rating and community.
+* Search tool has filters for the game type, rating, source of rating, and community.
 * Filters can be expanded and selection can be made with tick boxes.
 * Click 'GO' to make the search. 
+
+**Feeds**
+* Suggestions for communities or games are based on other games played by users with similar game/community interests.
+* Publisher updates of the games, including new versions, expansion packs, convention information, or new threads from communities the user is a part of are displayed here.
 
 
 #### Control Flow
 ![Homepage_](uploads/bf3a397103b095767cff20d2bf9f7be9/Homepage_.jpg)
 
-##### Overview
-The homepage is the first thing seen by the user whether they have created an account or are just browsing. There is a navigation bar with search functionality (games, players or communities), a button which redirects the user back to this homepage, and either the option to login/sign up if they have  not already, or access their own profile and communities directly.
-
-##### Searching
-The search bar executes searches for game titles, other publicly viewable players, or communities for games. The search results can be filtered by type of result (game, player, community), rating (for games), or source of ratings e.g. our own users, website affiliated ratings.
-
-##### Suggestions
-Suggested communities and games are displayed in the main feed in a scrolling format. These are determined from the games and communities the user already engages with on their profile and games which other users of similar tastes play. 
-
-##### Feeds
-Publisher updates of the games, including new versions, expansion packs, convention information, or new threads from communities the user is a part of are displayed here.
-
-##### Sign up/Log in
-The sign up/log in option prompts users to enter their email address and password. Once these are verified as either an existing account or a new one has been made, the user is granted access to their own profile.
 
 ### 3.3.2 Player page
 

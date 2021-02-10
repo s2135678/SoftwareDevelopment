@@ -3,9 +3,9 @@
 ## 2.1 Architecture
 The software consists of four layers: `Presentation Layer`, `Business Logic Layer`, `Data Layer` and `Infrastructure Layer`.
 
-The main purpose `Presentation Layer` is the UI interface that used to interact with users who will use this system, mainly game players and game publishers.
-The `Business Logic Layer` is the layer that consists of main functions of this system, and these functions is split into five different sets according to their purposes. These five sets are `User Management`, `Publisher Management`, `Game Transaction`, 'Community Management' and `Game Management`.
-The `Data Layer` uses MySQL, and have four main functions, `Data Transaction`, `Data Analysis`, `Data Storage` and `Database Operation`. 
+The main purpose `Presentation Layer` is the UI interface that is used to interact with users who will use this system, mainly game players and game publishers.
+The `Business Logic Layer` is the layer that contains the main functions of the system, and these functions are split into five different sets according to their purpose. These five sets are `User Management`, `Publisher Management`, `Game Transaction`, 'Community Management' and `Game Management`.
+The `Data Layer` uses MySQL, and has four main functions, `Data Transaction`, `Data Analysis`, `Data Storage` and `Database Operation`. 
 The last layer `Infrastructure Layer` is the most basic layer. It contains the `OS (Operating System)`, `Server`, `Network`, `Cloud Storage` and `Backup`.
 
 Users can use `Presentation Layer` to interact with the system, the action is then passed through the layers in an orderly fashion until the action is complete.
@@ -20,7 +20,7 @@ Here are some examples that how users interact with the system.
 
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/jpgForPresentationLayer/login.jpg "The action login") 
 
-In this example, the user inputs his userID and password, and then choose the `login` button in the page. `login` function will be called. The information will be sent to the `data layer` to be checked whether it is already stored in the database. If the answer is yes, the system will jump to the homepage. If the answer is no, the system will give the user a register option, after user input information that needed to do the register work, the information will be added in to the database, and then jump to the homepage.
+In this example, the user inputs their userID and password, and then choose the `login` button in the page. `login` function will be called. The information will be sent to the `data layer` to be checked whether it is already stored in the database. If the answer is yes, the system will jump to the homepage. If the answer is no, the system will give the user a register option, after the user inputs the information needed to do the register work, the information will be added in to the database, and then jump back to the homepage.
 
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/jpgForPresentationLayer/recommendGame.jpg "The action recommendation")
 

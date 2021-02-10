@@ -24,14 +24,13 @@ In this example, the user inputs their userID and password, and then choose the 
 
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/jpgForPresentationLayer/recommendGame.jpg "The action recommendation")
 
-In this example,  the user first need to finish the login work, then the system will jump to the homepage. At the same time, the function `recommendByRate` will be called. The system will query the private rating information of the user to see what types of game the user likes and the games that the user already have. Then the database will give the weight of the same type of games. Then the rating will be calculated by the weight. The result will be showed in the sidebar of the homepage.
-
+In this example,  the user first needs to finish the login work, then the system will jump to the homepage. At the same time, the function `recommendByRate` will be called. The system will query the private rating information of the user to see what types of game the user likes and the games that the user already has. Then the database will give the weight of the same type of games. Then the rating will be calculated by the weight. The result will be showed in the main feed of the homepage.
 
 
 ### 2.2.2 Business Logic Layer (BLL)
-`Business Logic layer` has five main subsystems, which are `User Management`, `Publisher Management`, `Game Transaction`, 'Community Management' and `Game Management`. `Game Management` has three subsystems, `Rating Management`, `Review Manegement` and `Expansion Management` To realize all the requirements, there are eight classes in BLL, `userService`, `User`, `userCommunity`, `Publisher`, `Game`, `ratingService`, `reviewService` and `gameExpansion`. Some functions of a system can be included in another system, for example, there is not a class for `Game Transaction` but its related function can be acessed in `User` class.
+`Business Logic layer` has five main subsystems, which are `User Management`, `Publisher Management`, `Game Transaction`, 'Community Management' and `Game Management`. `Game Management` has three subsystems, `Rating Management`, `Review Manegement` and `Expansion Management` To realize all the requirements, there are eight classes in BLL, `userService`, `User`, `userCommunity`, `Publisher`, `Game`, `ratingService`, `reviewService` and `gameExpansion`. Some functions of a system can be included in another system, for example, there is not a class for `Game Transaction` but its related function can be accessed in `User` class.
 
-The `user` class has four attributes, `userID`, `userName`, `password` and `email`. User class also has seven functions, `updateGame` update the game collection, `add` add game to game collection, `remove` remove the chosen game from his game collection, `postReview` post new review for chosen game, `postRules` post new rules to the chosen game (the rules also need to be checked by publisher), `updatePersonFile` update his own personal details, `sellgame` user also have the role seller, he can sell his game to others and decide the price of the game so that other user can decide whether to buy the game. 
+The `user` class has four attributes, `userID`, `userName`, `password` and `email`. The user class also has seven functions, `updateGame` which updates the game collection, `add` which adds a game to the user's game collection, `remove` which removes the chosen game from their game collection, `postReview` which posts a new review for the chosen game, `postRules` which posts a new rule to the chosen game (the rules also need to be checked by publisher), `updatePersonFile` which updates the user's own personal details, `sellgame` user also have the role seller, he can sell his game to others and decide the price of the game so that other user can decide whether to buy the game. 
 
 The `User` can use `userService` class to finish three steps, register, login and logout.
 
@@ -39,13 +38,13 @@ The `Publisher` class is similar to the `User` class. The differences are that `
 
 The `userCommunity` class has four attributes. `communityID` is the identification of the community. `communityGame` indicates which game this community belongs to. `peopleNumber` is the number of people in this community (including players and publishers). `Review` stores all reviews in this community. Apart from that, three methods are provided for this class. `postReviews` returns all the reviews in the community. `addPlayer` and `removePlayer` are methods that change the members of the community.
 
-The `Game` class has attributes that help the player to manage their game collection and buy new games. `gameId`, `gameName` and `type` help players to search games. The `price` is the money paid when buying the game. The `Status` indicates whether this game is available or there is a new version. The `rate` allows players to search the highest rating or most popular games. Besides, there are four methods, to change the state of games(`changePrice, updateStatus` and `changeRules`) and recommand the game (`recommandByType`). 
+The `Game` class has attributes that help the player to manage their game collection and buy new games. `gameId`, `gameName` and `type` help players to search games. The `price` is the money paid when buying the game. The `Status` indicates whether this game is available or if there is a new version. The `rate` allows players to search the highest rating or most popular games. There are four methods, to change the state of games(`changePrice, updateStatus` and `changeRules`) and recommand the game (`recommandByType`).
 
 The `ratingService` class provides several methods to modified game's rate and recommend by rate. These services can be invoked when players give feedback to games or the system recommend popular games for players.
 
 The `reviewService` class has methods for players to post their review (`postReview`) and read others' reviews (`orderByGame` and `orderByUser`). There is also a weight system that can filter certain review sources (`orderByWeight`).
 
-The `gameExpansion` class have attributes, `expansionID`, `expansionName` and `expansionPrice` and two main functions, (`addExpansion`) and (`deleteExpansion`). This class can be used to manage expansions of games.
+The `gameExpansion` class has attributes, `expansionID`, `expansionName` and `expansionPrice` and two main functions, (`addExpansion`) and (`deleteExpansion`). This class can be used to manage expansions of games.
 
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/businessLogicLayer.jpg "business layer") 
 

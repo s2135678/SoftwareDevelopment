@@ -2,11 +2,11 @@
 This section presents the graphical user interface (GUI) for the game collection management and sourcing system, which will be implemented as a web application. This was decided following our survey, which showed that majority of players use personal computers to play games. We also considered designing a mobile application, as mobile phones were second preferred device after personal computers. However considering the time given, our primary focus will be on the web application. Our web application addresses accessibility criteria for users with disabilities and offers different language options to provide access to users from all around the world.   
 
 ## 3.1 Accessibility
-We plan to implement following features to address accessibility criteria for users with different disabilities. Accessibility settings can be adjusted in the Account Settings.
+We plan to implement following features to address accessibility criteria for users with different disabilities. Accessibility settings can be adjusted in the Account Settings (See Section 3.3.5).
 
 | **Disability** | **Accessibility Feature** |
 | ------ | ------ |
-| Visual Impairment  | Text to Speech <br> Option to enlarge font size |
+| Visual Impairment  | Text to Speech feature <br> Option to enlarge font size |
 | Color Impairment | Different color palettes offered. These include: Blue/Orange, Blue/Red and White/Black | 
 | Hearing Impairment | Closed captions available on all videos |
 
@@ -23,7 +23,7 @@ Secondly, these functionality options are all presented to the user in one page,
 
 Thirdly, only one navigation bar is located at the top of each page. Many game collection and sourcing websites have 3 – 4 navigation bars placed on all sides of the page, overcrowding the screen. Our web application will have one main bar at the top, which will be present in all pages. 
 
-Lastly, our web application will use dark color palette (navy, black and dark grey) to contrast with vibrant colors of games and to reduce strains to eyes. However, other color options will also be available to take account of those with color disabilities (See 3.1 Accessibility). 
+Lastly, our web application will use dark color palette (navy, black and dark grey) to contrast with vibrant colors of games and to reduce strains to eyes. However, other color options will also be available to take account of those with color disabilities (See Section 3.1). 
 
 ### 3.2.2 Consistent Layout
 
@@ -129,7 +129,7 @@ Similar layout will be maintained for all pages of the web application. This inc
 * Click on dropdown options to view each section 
 
 **Review dropdown**
-* Users can submit their review of the game using text fields. Click ‘Submit’ to add reviews 
+* Users can submit their review of the game using text fields. Click ‘Submit’ to add reviews. 
 * Users can scroll down to see preview of reviews and ratings from other users and from external sources. Click ‘Expand’ to view the rest of reviews. 
 
 **Community dropdown**
@@ -147,8 +147,8 @@ Similar layout will be maintained for all pages of the web application. This inc
 * Users can scroll down to preview FAQs from other players. Click ‘Expand’ to view the full FAQ.  
 
 **Buy dropdown**
-* Displays game price from different retailers- online and in-person
-* Click ‘Go To Website’ to redirect to retailer’s website
+* Displays game price from different retailers- online and in-person.
+* Click ‘Go To Website’ to redirect to retailer’s website.
 * Filters for ‘Used’ and ‘New’ can be selected using tick boxes.  
 * Users are free to investigate the retailers themselves which are helpfully managed in one section of this page.
 
@@ -168,7 +168,7 @@ Similar layout will be maintained for all pages of the web application. This inc
 * There are two distinct layers to the community page- the first layer is a homepage-like interface which displays suggested discussion threads (based on your games/communities) and allows users to search for communities. The layer below this, is the game-specific community page. 
 * Users can browse through community and event suggestions using image carousel. Click on the arrows to view previous or next suggestion/feed.
 * Users can use search bar to find communities and events. Click ‘GO’ to make the search. 
-* If user’s location is not specified, a prompt is displayed, redirecting users to account settings 
+* If user’s location is not specified, a prompt is displayed, redirecting users to account settings. 
 
 #### Control Flow
 ![Community](uploads/b941d6b2f17b47589096e3abe7f50525/Community.jpg)
@@ -191,7 +191,7 @@ This page hosts the discussion threads relating to specific threads, and also lo
 * Location services are used to determine local clubs/events for the user's communities.
 
 #### User Interaction 
-* ‘Location Sharing’, ‘Privacy’, ‘Text to Speech’ and ‘Closed Captions’ can be switched on/off using toggles
+* ‘Location Sharing’, ‘Privacy’, ‘Text to Speech’ and ‘Closed Captions’ can be switched on/off using toggles.
 * Pop-up confirmation messages are displayed to confirm user’s action. 
 * ‘Colour Theme’, ‘Text Size’ and ‘Languages’ options can be expanded and selections can be made using tick boxes. 
 

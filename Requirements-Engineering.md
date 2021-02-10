@@ -45,6 +45,6 @@ The requirements are prioritised using the MOSCOW method. The requirements are g
 * S: Fast search speed.
 
 ## 1.3 Prioritisation 
-Requirements were grouped into four categories: Must(M), Should(S), Could(C) and Would(W). This was decided  
+Requirements were grouped into four categories: Must(M), Should(S), Could(C) and Would(W). Requirements were categorised as 'Must' if the functionality is core to the game collection management and sourcing. Requirements that have high risk (i.e. we are unfamiliar with methods to achieve the functionality) were also placed into 'Must'. 
 
 ## 1.4 Capture Methodology 

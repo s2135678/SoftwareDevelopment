@@ -161,19 +161,17 @@ Similar layout will be maintained for all pages of the web application. This inc
 </p>
 
 #### Purpose
-* To suggest communities and events near the user
-* To find new communities and events using search tool
+* To suggest communities and events/clubs near the user
+* To find new communities and events/clubs using search tool
 
 #### User Interaction
+* There are two distinct layers to the community page- the first layer is a homepage-like interface which displays suggested discussion threads (based on your games/communities) and allows users to search for communities. The layer below this, is the game-specific community page. 
 * Users can browse through community and event suggestions using image carousel. Click on the arrows to view previous or next suggestion/feed.
 * Users can use search bar to find communities and events. Click ‘GO’ to make the search. 
 * If user’s location is not specified, a prompt is displayed, redirecting users to account settings 
 
 #### Control Flow
 ![Community](uploads/b941d6b2f17b47589096e3abe7f50525/Community.jpg)
-
-##### Overview
-There are two distinct layers to the community page- the first later is a homepage-like interface which displays suggested discussion threads (based on your games/communities) and allows users to search for communities. The layer below this, is the game-specific community page. 
 
 ##### Community home
 The page serves the purpose of helping users navigate the communities. It is accessed from the home page by clicking on the "my communities" page. All pages are accessible through the search function and the suggested communities allows users to discover new games and conversations that similar users enjoyed.
@@ -187,7 +185,10 @@ This page hosts the discussion threads relating to specific threads, and also lo
 </p>
 
 #### Purpose
-* To set location settings, privacy and accessibility features.
+* To set location settings, privacy, accessibility, and language features to optimize the experience for each individual user.
+* Language settings are particularly important as the larger the user base, the more information can be obtained to suggest relevant games/communities, and the more engagement there is with the discussion threads.
+* Even with privacy set to private, users can engage with discussion threads and search for other  users, they are just not visible in search results.
+* Location services are used to determine local clubs/events for the user's communities.
 
 #### User Interaction 
 * ‘Location Sharing’, ‘Privacy’, ‘Text to Speech’ and ‘Closed Captions’ can be switched on/off using toggles
@@ -196,21 +197,6 @@ This page hosts the discussion threads relating to specific threads, and also lo
 
 #### Control Flow
 ![Settings](uploads/c427847d2de286e0ae0a53842d9580d7/Settings.jpg)
-
-##### Overview
-The account settings are accessed through your own profile and detail the privacy, location, and accessibility settings which personalise the user's experience using the software.
-
-##### Location Sharing
-Location is only used to determine local clubs and events relating to games the user has searched for or is a player of. In particular, on the game-specific community page, the location is used to generate a map of the in-person clubs/meetups that are in the area.
-
-##### Privacy
-This allows the user to decide whether their own profile is publicly viewable or not. If set to private, users can still comment on community discussion threads, but other users cannot view the games or communities they play. If set to public, they can appear in general searches and their information is able to be viewed by any player.
-
-##### Accessibility
-Users can personalise their UI according to their personal needs in a variety of ways. these include text-to-speech, colour theme choice, and adjustable text size for users who are visually impaired and closed captions on video elements for users who are hearing impaired.
-
-##### Language
-Language settings are included to ensure users from all countries and backgrounds are able to use the software. This is particularly important as the larger the user base, the more information can be obtained to use to suggest relevant games/communities, and the more engagement there is with the discussion threads.
 
 ### 3.3.6 Publisher Interface
 The idea of a separate interface for game publishers was explored, but when the technology required was discussed we concluded that we would focus on creating a slick and ergonomic interface for the players and focus our time on the one task. 

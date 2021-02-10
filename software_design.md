@@ -1,6 +1,6 @@
-# Software design
+# 2. Software design
 
-## Architecture
+## 2.1 Architecture
 The software consists of four layers: `Presentation Layer`, `Business Logic Layer`, `Data Layer` and `Infrastructure Layer`.
 
 The main purpose `Presentation Layer` is the UI interface that used to interact with users who will use this system, mainly game players and game publishers.
@@ -12,8 +12,8 @@ Users can use `Presentation Layer` to interact with the system, the action is th
 
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/ArchitectureDesign.jpg "software architecture") 
 
-## Component functionality
-### Presentation Layer
+## 2.2 Component functionality
+### 2.2.1 Presentation Layer
 In `Presentation Layer`, mainly uses `HTML`, `CSS` and `Vue.JS`. Users interact with the system through this layer. `Presentation Layer` will pass the information to `Business Layer`, then `Business Layer` will call the related functions to finish the action includes exchange information with `Data Layer`.
 
 Here are some examples that how users interact with the system. 
@@ -28,7 +28,7 @@ In this example,  the user first need to finish the login work, then the system 
 
 
 
-### Business Logic Layer (BLL)
+### 2.2.2 Business Logic Layer (BLL)
 `Business Logic layer` has five main subsystems, which are `User Management`, `Publisher Management`, `Game Transaction`, 'Community Management' and `Game Management`. `Game Management` has three subsystems, `Rating Management`, `Review Manegement` and `Expansion Management` To realize all the requirements, there are eight classes in BLL, `userService`, `User`, `userCommunity`, `Publisher`, `Game`, `ratingService`, `reviewService` and `gameExpansion`. Some functions of a system can be included in another system, for example, there is not a class for `Game Transaction` but its related function can be acessed in `User` class.
 
 The `user` class has four attributes, `userID`, `userName`, `password` and `email`. User class also has seven functions, `updateGame` update the game collection, `add` add game to game collection, `remove` remove the chosen game from his game collection, `postReview` post new review for chosen game, `postRules` post new rules to the chosen game (the rules also need to be checked by publisher), `updatePersonFile` update his own personal details, `sellgame` user also have the role seller, he can sell his game to others and decide the price of the game so that other user can decide whether to buy the game. 
@@ -50,7 +50,7 @@ The `gameExpansion` class have attributes, `expansionID`, `expansionName` and `e
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/businessLogicLayer.jpg "business layer") 
 
 
-### Data Layer
+### 2.2.3 Data Layer
 
 There are 8 tables in the database. The `User` Table and `Publisher` Table store the personal information of game player and publisher, including userid, password, name and email. The `Community` table stores the data of the user community where users can read other's review or add their own review. The `Game` Table stores information of all published games. The `Rules` Table stores games' rules and clarifications. The `Rate` Table stores the user's private rate to a game and corresponding weight. The `Docs` Table stores publisher's FAQs and errata documents to the game. The `Review` Table stores all the reviews from players, including review id, post date and content.
 
@@ -58,8 +58,8 @@ Relationship between tables is also important for data layer. Firstly, each user
 
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/database%20layer%20ER.jpg "database layer") 
 
-### Infrastructure Layer
+### 2.2.4 Infrastructure Layer
 `Infrastructure Layer` is basic but also the most important. This layer has five fundamental parts, `Network`, `Server`, `OS`, `Cloud Storage` and `Backup`. First, all the service need to be based on a valid server cluster. Second, the network need to have adequate bandwidth to accommodate numerous user accesses. Third, there should be enough cloud space to store all the information that produced by the users and the games. Fourth, the operating system should be strong enough to keep the whole system running. Last, there should be a backup version of the system that can be used to recall, which will reduce some avoidable problems.
 
-## Implementation path
+## 2.3 Implementation path
 At first, the `Infrastructure Layer` should be decided. The operating system should be open enough for most of the requirements to be implemented. The network and server can have enough load to support the operation of the entire system, and the storage space should be large enough. The second step is to collect and organize the data and realize the UI interface. It is also clear that the interface between the front end and the back end should keep matching. The database should match the tables in the component design. Next, different subsystems of the business layer are developed by stages, and each subsystem is carried out on the basis of meeting the project requirements. In the process of each stage, the progress is recorded in the development log, and the project is regularly backed up. 

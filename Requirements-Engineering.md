@@ -48,3 +48,7 @@ The requirements are prioritised using the MOSCOW method. The requirements are g
 Requirements were grouped into four categories: Must(M), Should(S), Could(C) and Would(W). Requirements were categorised as 'Must' if the functionality is core to the game collection management and sourcing. Requirements that have high risk (i.e. we are unfamiliar with methods to achieve the functionality) were also placed into 'Must'. 
 
 ## 1.4 Capture Methodology 
+* Document describing the requirements 
+* Questionnaires were sent to gamers  
+* Asking Allistair questions for clarification
+* Due to COVID face-to-face interviews were not carried out  

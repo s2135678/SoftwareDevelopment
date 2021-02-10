@@ -91,12 +91,13 @@ Similar layout will be maintained for all pages of the web application. This inc
 
 #### Purpose
 * To manage user's games and communities
-* To display user's personal information, games and communities to other players 
+* To display user's personal information, games, expansions, and communities to other players if privacy settings allow
 
 #### User Interaction 
 * Click on ‘Edit’ to change personal information, which is displayed for other players visiting user’s player profile.  
 * For other players visiting user’s player page, personal information, games and communities are displayed without the option to edit. 
 * Click on ‘My Games’ and ‘My Communities’ dropdown options to display user’s current games and communities. 
+* The same UI is used for viewing other user's profile and your own (with the addition of editing functions) so users immediately understand the functionality.
 
 **My Games dropdown**
 * Games are listed and expansion packs can be displayed by expanding the list. 
@@ -110,14 +111,6 @@ Similar layout will be maintained for all pages of the web application. This inc
 #### Control Flow
 ![Player](uploads/d34a39dfee3feb04b8368609afe1235a/Player.jpg)
 
-##### Overview
-The player page displays information on the user including a small "about" section, their games, expansions, and communities. The same UI is used for viewing your own page as when looking at someone else's, with the addition of editing functionality.
-
-##### Your profile
-With your own profile, the about section can be edited, and games/communities can be added in order to personalize suggestions, and so other users can find you. The latter is only enabled if privacy settings are set to "public" in the account settings. The account settings page is accessible from your own profile only.
-
-##### Other user's profile
-When viewing other user's profile, you can see games and communities they have added to their profile, and can access the associated pages directly through these links.
 
 ### 3.3.3 Game page
 <p float="left">
@@ -141,11 +134,11 @@ When viewing other user's profile, you can see games and communities they have a
 
 **Community dropdown**
 * Shows preview of recent posts from the game community. 
-* ‘Go To Community Page’ button directs user to the corresponding community page.  
+* ‘Go To Community Page’ button directs user to the game-specific community page.  
 
 **Rules dropdown**
 * Preview of official rules are displayed. Click ‘Expand’ to view all rules. 
-* Users can add rules using text fields. This will be sent to the game publisher for approval. Click ‘Submit’ to add a rule. 
+* Users can suggest a rule using text fields. This will be sent to the game publisher for approval. Click ‘Submit’ to add a rule. 
 * Users can scroll down to preview recent updates from publishers. Click ‘Expand’ to view all updates. 
 
 **FAQ dropdown**
@@ -154,30 +147,13 @@ When viewing other user's profile, you can see games and communities they have a
 * Users can scroll down to preview FAQs from other players. Click ‘Expand’ to view the full FAQ.  
 
 **Buy dropdown**
-* Displays game price from different retailers 
+* Displays game price from different retailers- online and in-person
 * Click ‘Go To Website’ to redirect to retailer’s website
 * Filters for ‘Used’ and ‘New’ can be selected using tick boxes.  
+* Users are free to investigate the retailers themselves which are helpfully managed in one section of this page.
 
 #### Control Flow
 ![Game](uploads/cbdc2debb7a133ddc2ad06ce401e1a28/Game.jpg)
-
-##### Overview
-The game page holds information for each game including the rating (from our users), title, description, and images. From the game page, the user is able to access a variety of functions from the drop down menu.
-
-##### FAQ
-This section holds frequently asked questions the game publisher has decided to publish. Users can ask the publisher any other queries they have directly with the submit function.
-
-##### Community
-This previews a few of the most recent threads of discussion from the community page associated with the game. There is also a link which redirects the user directly to the community page for the game.
-
-##### Buy Now
-Retailers (online or in person) are listed here with their price(s) and a link to their website. Since there is no platform to buy goods in our product, the users are free to investigate the retailers themselves which are helpfully managed in one section of this page.
-
-##### Rules
-Similar to the FAQ section, this details publisher-approved rules for the game but allows users/players to submit rules or corrections of the game to be considered by the publisher.
-
-##### Ratings/Reviews
-Ratings/reviews allow the user to see what others think of the game and also add their own review. The ratings can be filtered using the same method as in the search filters of the homepage- by source.
 
 ### 3.3.4 Community page
 <p float="middle">

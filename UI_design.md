@@ -32,7 +32,7 @@ Similar layout will be maintained for all pages of the web application. This inc
 * Options to edit/add/remove/submit in black buttons
 * Dropdown menu options shown in grey buttons
 
-### 3.3.3 Other features
+### 3.2.3 Other features
 * Texts and terminologies will use words familiar to players.
 * System status messages such as ‘Game added’ or ‘Searching…’ will be displayed to help users understand the outcome of their actions and determine next tasks. 
 * Options to undo or redo actions will be implemented with features such as ‘cancel’ or ‘edit’. This provides users with freedom to control their own actions and prevent errors. 

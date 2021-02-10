@@ -30,7 +30,7 @@ Lastly, our web application will use dark color palette (navy, black and dark gr
 Similar layout will be maintained for all pages of the web application. This increases user’s familiarity with the application and ensures easy navigation around the website. Some consistent features include: 
 * Information displayed in grey containers
 * Options to edit/add/remove/submit in black buttons
-* Dropdown menu options shwon in grey buttons
+* Dropdown menu options shown in grey buttons
 
 ### 3.3.3 Other features
 * Texts and terminologies will use words familiar to players.

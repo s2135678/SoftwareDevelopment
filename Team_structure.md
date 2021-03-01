@@ -2,13 +2,12 @@
 
 The team structure was established from personal strengths including technical experience and relevant soft skills. Due to the difference in requirements for subsequent submissions, roles were allocated for the 1st submission only (bar project manager). Roles will be reviewed and reallocated as appropriate for the 2nd and 3rd subsmissions.
 
-## 4.1 Roles
+## 4.1 Submission 1 Roles
 ### Project Manager: Milly Kinghorn
 * Responsible for the allocation of tasks within group based on personal strengths of team members
 * Responsible for the communication with lecturers/course director
 * Part-responsible for the project requirements and UI sections
 * Allocated because of strengths in organisation and leadership
-
 
 ### UI Lead: Sera Choi
 * Responsible for UI development including designing mock-ups of ideas
@@ -28,7 +27,21 @@ The team structure was established from personal strengths including technical e
 * Laise with UI Lead and Software Design team to ensure project meets requirements
 * Allocated because of technological knowledge of similar systems and connections to game community
 
-## 4.2 Communications
+## 4.2 Submission 2 Roles
+### Project Manager: Milly Kinghorn
+* Responsibilities as above
+
+### Risk Analysis Team: Sera Choi, Milly Kinghorn, Gregor Rowley
+* Responsible for choosing risk analysis and mitigation methods/strategies
+* Responsible for ensuring all risks are identified and attributed to the correct subsection
+* Responsible for applying risk mitigation strategies within the development plan
+
+### Planning and Scheduling Team: Hao Yang, Xiaoyu Wei
+* Responsible for choosing development model for the creation of the prototype
+* Responsible for identifying specific tasks required to complete prototype development and creating a schedule to complete these
+* Allocated due to dependencies on knowledge of software architecture required for the planning of individual tasks
+
+## 4.3 Communications
 
 ### Microsoft Teams
 

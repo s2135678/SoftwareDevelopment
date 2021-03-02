@@ -33,6 +33,7 @@ The requirements are grouped into one of:
 * Should allow users to search for sellers of games.
 * Should allow the properties of games to be updated/changed.
 * Should check if a user already holds an account.
+* Should recommend new games to users.
 
 ### Could have
 * Could allow a user to provide contact info.

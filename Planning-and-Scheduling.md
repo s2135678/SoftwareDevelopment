@@ -74,13 +74,16 @@ Also, software testing runs through all stages because we will use Test Driven D
    ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Task_Dependencies.png "Gantt Chart")
 
 # Team Structure
-Changes to the team structure are as follows:
+### Project Manager: Milly Kinghorn
+* Responsibilities as previous
 
-## Project Manager: Milly
-Milly will continue as our project manager as Milly has experience of working with this team from the previous assignment.
+### Risk Analysis Team: Sera Choi, Milly Kinghorn, Gregor Rowley
+* Responsible for choosing risk analysis and mitigation methods/strategies
+* Responsible for ensuring all risks are identified and attributed to the correct subsection
+* Responsible for applying risk mitigation strategies within the development plan
 
-## Risk Analysis Team: Sera, Milly, Gregor
-
-## Planning and Development Team: Hao, Xiaoyu
-In the previous assignment, Hao and Xiaoyu were responsible for the software architecture. 
+### Planning and Scheduling Team: Hao Yang, Xiaoyu Wei
+* Responsible for choosing development model for the creation of the prototype
+* Responsible for identifying specific tasks required to complete prototype development and creating a schedule to complete these
+*In the previous assignment, Hao and Xiaoyu were responsible for the software architecture. 
 As Hao and Xiaoyu have knowledge of inner workings of the software, and have experience of working together, they were allocated to the 'Planning and Development' section of the project.    

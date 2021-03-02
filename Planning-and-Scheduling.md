@@ -72,3 +72,15 @@ Also, software testing runs through all stages because we will use Test Driven D
 ## 4. Gantt Chart
 
    ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Task_Dependencies.png "Gantt Chart")
+
+# Team Structure
+Changes to the team structure are as follows:
+
+## Project Manager: Milly
+Milly will continue as our project manager as Milly has experience of working with this team from the previous assignment.
+
+## Risk Analysis Team: Sera, Milly, Gregor
+
+## Planning and Development Team: Hao, Xiaoyu
+In the previous assignment, Hao and Xiaoyu were responsible for the software architecture. 
+As Hao and Xiaoyu have knowledge of inner workings of the software, and have experience of working together, they were allocated to the 'Planning and Development' section of the project.    

@@ -95,6 +95,7 @@ The requirements are grouped into one of:
 * Should have a logical interface layout.
 * Should include detailed information on games in a single place.
 * Should provide a logical control structure to allow users to interact with the system in an intuitive manner.
+* Should have self-documenting control structures, such as buttons on the system labelled with their purpose.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.
@@ -107,6 +108,7 @@ The requirements are grouped into one of:
 * Could implement an notification inbox for users to quickly and simply access and view responses to their comments in communities.
 
 ### Won't have
+
 
 ## 1.3 Prioritisation 
 Requirements were grouped into four categories: Must(M), Should(S), Could(C) and Would(W). Requirements were categorised as 'Must' if the functionality is core to the game collection management and sourcing. Requirements that have high risk (i.e. we are unfamiliar with methods to achieve the functionality) were also placed into 'Must'. 

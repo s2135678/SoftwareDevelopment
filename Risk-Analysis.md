@@ -22,13 +22,13 @@ The 7 methods identified to control risk were: <br>
 7. **Control** the risk by altering the schedule to minimise its effect
 
 ## 3. Risk categories 
-Risks are categorised into 4 groups:
+Risks are categorised into 4 areas:
 1. **Scheduling**: risks associated with project planning, estimation and team performance
 2. **Operational**: risks associated with implementation of prototype 
 3. **Technical**: risks associated with software performance and function 
 4. **Programmatic**: risks from external sources 
 
-### Scheduling Risks 
+### 3.1 Scheduling Risks 
 | **Risk** | **Probability of risk** | **Impact** | **Risk Priority** | **Resolution Method** | **Resolution Strategy**|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |Uneven workload split between team members|Possible|Negligible - easily resolved and minimal impact on the final prototype's quality. Affects overall project, not task specific.|Low|Control|Split workload broadly between sub teams so team members stay focussed on their area and from here split workload based on time as opposed to number of tasks|
@@ -39,7 +39,7 @@ Risks are categorised into 4 groups:
 |Time difference in working hours|Certain|Negligible - the work will still get done, just with more asynchronous communication at times. Affects overall project, not task specific.|Medium|Control|Ensure group meetings are at a social time for everyone in the group (10am - 2pm UK time)|
 |Team member unable to continue|Unlikely|Moderate - would require a reallocation of the tasks with potentially minimal notice and would put a strain on the rest of the team. The prototype may be incomplete with components missing and low-quality. Affects overall project, not task specific.|Low|Assume|It is out of our control, but would require fast action to ensure all areas required for the project can still be completed|
 
-### Operational Risks 
+### 3.2 Operational Risks 
 | **Risk** | **Probability of risk** | **Impact** | **Risk Priority** | **Resolution Method** | **Resolution Strategy**|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |Technology required to develop prototype is not available on all team members' personal machines e.g. mixture of windows and mac|Probable|Moderate - may cause uneven distribution of tasks as only those with compatible PC can complete the tasks. If this is the case for majority of tasks, it may result in unfinished prototype with partially completed tasks. Affects tasks involving interface as the formatting may be different. |Medium|Control|Discuss personal computer models before technology is chosen and research technology compatible with all if they are different|
@@ -48,15 +48,15 @@ Risks are categorised into 4 groups:
 |Version control system breaks down|Unlikely|Moderate - Unable to track changes and work together on the prototype. May cause disruptions to time and effort estimate as switching to a different version control system takes time. Affects project as a whole- specifically tasks which are split between team members.|Low|Assume|Be aware of the possibility and have an alternative version control system in mind to switch to when this happens. Communicate through other methods to notify team members about changes made to the code|
 |Usability testing failure|Possible|Severe - unable to evaluate the prototype and identify issues with the design. The quality of final product is low and difficult to use. Affects overall project, encompassed in the "Testing" task which runs throughout.|High|Eliminate|Careful testing design, taking account of the current pandemic|
 
-### Technical Risks 
+### 3.3 Technical Risks 
 | **Risk** | **Probability of risk** | **Impact** | **Risk Priority** | **Resolution Method** | **Resolution Strategy**|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |Unexpected changes to design|Unlikely|Severe - causes major changes to architecture, UI, and prototype. Impacts all tasks associated with the UI, Operation & Maintenance and Development components.|High|Avoid|If the changes are severe and cannot be implemented in time, reject the change. If achievable, re-evaluate the time and effort estimate and follow swiftly|
-|Extra functionality|Unlikely|Moderate - If the functionality is core to the software, it may cause severe changes to the architecture, UI and prototype. All core components (UI, Operation/Maintenance and Development) are affected. If the functionality is trivial, may have local impacts on the components|Low|Eliminate|Assess the requirements of the new functionality and remove if the task is unfamiliar and time consuming|
+|Adding in extra functionality|Unlikely|Moderate - If the functionality is core to the software, it may cause severe changes to the architecture, UI and prototype. All core components (UI, Operation/Maintenance and Development) are affected. If the functionality is trivial, may have local impacts on the components|Low|Eliminate|Assess the requirements of the new functionality and remove if the task is unfamiliar and time consuming|
 |Final product fails to perform core functionalities|Possible|Catastrophic - project failure|High|Eliminate|Prioritise tasks to ensure core functionalities are addressed and tested first. Use prototypes to identify potential issues that may rise during the final product development|
 |Low quality of final product|Possible|Moderate - Non-functional requirements are not addressed and customers are dissatisfied with the product. Affects overall project, not task specific|Low|Avoid|Good project planning and estimation to ensure non-functional requirements are also addressed in the time given|
 
-### Programmatic Risks 
+### 3.4 Programmatic Risks 
 | **Risk** | **Probability of risk** | **Impact** | **Risk Priority** | **Resolution Method** | **Resolution Strategy**|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |Changes to data protection policy|Possible|Moderate - may impact tasks associated with the Operation & Maintenance component|Low|Assume|Changes in data protection policy cannot be predicted, but if changes are required, the team is prepared to modify the design and architecture|

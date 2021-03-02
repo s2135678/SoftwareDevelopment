@@ -23,12 +23,13 @@ The requirements are prioritised using the MOSCOW method. The requirements are g
 * Should allow a user to post clarifications of rules for games.
 * Should allow a user to read FAQs and errata documents from publishers.
 * Should recommend new games to users.
-* Should allow suers to search for other players to play with.
+* Should allow users to search for other players to play with.
 * Should allow users to search for clubs/communities in a given geographical area.
 * Should allow users to share their geographical location.
 * Should allow users to view properties of games, such as price, game type, status (whether the game is available or there is a new version), average rating, etc.
 * Should allow users to search for sellers of games.
 * Should allow the properties of games to be updated/changed.
+* Should check if a user already holds an account.
 
 ### Could have
 * Could allow a user to provide contact info.
@@ -43,10 +44,29 @@ The requirements are prioritised using the MOSCOW method. The requirements are g
 * Could filter reviews of games.
 * Could allow a user to search for games by rating.
 
+### Won't have
 
 ## 1.2 Non-functional Requirements 
-* M: Functionalities organised into visual and logical compartments for easy navigation and aesthetic layout.
-* S: Fast search speed.
+The requirements are prioritised using the MOSCOW method. The requirements are grouped into one of:
+* Must have (M)
+* Should have (S)
+* Could have (C) 
+* Won't have (W)
+
+### Must have
+* Must ensure that a username is unique.
+* Must ensure that a username is case sensitive.
+* Must allow a user to search their collection via a search bar.
+* Must allow a user to add/remove games from their collection via buttons on their personal page.
+
+
+### Should have
+* Should allow a community to 
+
+### Could have
+* Could ensure that a username contains only numbers and letters.
+
+### Won't have
 
 ## 1.3 Prioritisation 
 Requirements were grouped into four categories: Must(M), Should(S), Could(C) and Would(W). Requirements were categorised as 'Must' if the functionality is core to the game collection management and sourcing. Requirements that have high risk (i.e. we are unfamiliar with methods to achieve the functionality) were also placed into 'Must'. 

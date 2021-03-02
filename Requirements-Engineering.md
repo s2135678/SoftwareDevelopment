@@ -15,6 +15,8 @@ The requirements are grouped into one of:
 * Must allow a user to logout from their account.
 * Must allow a user to search their collection.
 * Must allow a user to add/remove items from their collection.
+* Must ensure that a username is unique.
+* Must ensure that a username is case sensitive.
 
 ### Should have
 * Should allow a user to search for games they do not own.
@@ -44,6 +46,7 @@ The requirements are grouped into one of:
 * Could allow a publisher to add/remove an expansion to a game.
 * Could filter reviews of games.
 * Could allow a user to search for games by rating.
+* Could ensure that a username contains only numbers and letters.
 
 ### Won't have
 
@@ -56,17 +59,16 @@ The requirements are grouped into one of:
 * Won't have (W)
 
 ### Must have
-* Must ensure that a username is unique.
-* Must ensure that a username is case sensitive.
 * Must allow a user to search their collection via a search bar.
 * Must allow a user to add/remove games from their collection via buttons on their personal page.
 
 
 ### Should have
-* Should allow a community to 
+* Should allow a user to search for games they don't own via a search bar.
+* 
 
 ### Could have
-* Could ensure that a username contains only numbers and letters.
+* Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.
 
 ### Won't have
 

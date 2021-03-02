@@ -145,4 +145,12 @@ When asked whether they used game management/collection sites, 66.7% said they d
   <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/do_you_use_game_collection_sites.png" width="49%"/>
 </p>
 
+Those who said they used game management/collection sites, were asked what they used it for and gave a number of responses, such as:
+* To find new games to play.
+* To manage multiple games.
+* To find game communities and players to play with.
+* To compare game prices and look up reviews.
+
+Most gamers who answered the questionnaire said they used game management/collection sites to find new games to play, closely followed by using them to manage multiple games.
+
 ### Questions asked of Alistair Grant

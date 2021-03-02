@@ -35,7 +35,7 @@ The requirements are grouped into one of:
 * Should check if a user already holds an account.
 * Should recommend new games to users.
 * Should provide alternative methods of accessing the system for users with visual and hearing impairments.
-* Should allow a user to search for games 
+* Should allow a user to search for games using specific keywords.
 
 ### Could have
 * Could allow a user to provide contact info.

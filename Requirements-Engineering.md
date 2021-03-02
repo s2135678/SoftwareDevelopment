@@ -2,7 +2,8 @@
 This section presents both functional and non-functional requirements of the game collection management and sourcing system. It includes methods of requirements capture used and other alternatives we considered. The functional and non-functional requirements were prioritised used MOSCOW method. The overall aim of the project is to create an online space for players to manage, explore, and find communities for all types of games.
 
 ## 1.1 Functional Requirements 
-The requirements are prioritised using the MOSCOW method. The requirements are grouped into one of:
+The requirements are prioritised using the MOSCOW method. 
+The requirements are grouped into one of:
 * Must have (M)
 * Should have (S)
 * Could have (C) 
@@ -47,7 +48,8 @@ The requirements are prioritised using the MOSCOW method. The requirements are g
 ### Won't have
 
 ## 1.2 Non-functional Requirements 
-The requirements are prioritised using the MOSCOW method. The requirements are grouped into one of:
+The requirements are prioritised using the MOSCOW method. 
+The requirements are grouped into one of:
 * Must have (M)
 * Should have (S)
 * Could have (C) 

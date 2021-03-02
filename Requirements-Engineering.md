@@ -126,3 +126,11 @@ A number of different capture methodologies were employed in extracting the requ
 * Reading the Product Description.
 * A questionnaire given to gamers.
 * Questions sent to Alistair Grant for clarification.
+
+Each will be discussed in detail below.
+
+### Reading the Product Description
+
+### Questionnaire
+
+### Questions asked of Alistair Grant

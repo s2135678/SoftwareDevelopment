@@ -35,6 +35,7 @@ The requirements are grouped into one of:
 * Should check if a user already holds an account.
 * Should recommend new games to users.
 * Should provide alternative methods of accessing the system for users with visual and hearing impairments.
+* Should allow a user to search for games 
 
 ### Could have
 * Could allow a user to provide contact info.
@@ -52,6 +53,7 @@ The requirements are grouped into one of:
 * Could allow a user to compare prices of games.
 
 ### Won't have
+* Won't have information packed densely and inaccessibly.
 
 ## 1.2 Non-functional Requirements 
 The requirements are prioritised using the MOSCOW method. 

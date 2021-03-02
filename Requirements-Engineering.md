@@ -84,6 +84,7 @@ The requirements are grouped into one of:
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.
+* Could display similar related games a user might be interested in.
 
 ### Won't have
 

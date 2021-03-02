@@ -3,10 +3,10 @@ This section presents both functional and non-functional requirements of the gam
 
 ## 1.1 Functional Requirements 
 The requirements are prioritised using the MOSCOW method. The requirements are grouped into one of:
-Must have (M)
-Should have (S)
-Could have (C) 
-Won't have (W)
+* Must have (M)
+* Should have (S)
+* Could have (C) 
+* Won't have (W)
 
 ### Must have
 * Must allow a user to register for an account.

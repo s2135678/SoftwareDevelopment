@@ -76,14 +76,16 @@ Also, software testing runs through all stages because we will use Test Driven D
 # Team Structure
 ### Project Manager: Milly Kinghorn
 * Responsibilities as previous
+* Allocated due to past experience as the project manager of this team from the previous assignment 
 
 ### Risk Analysis Team: Sera Choi, Milly Kinghorn, Gregor Rowley
 * Responsible for choosing risk analysis and mitigation methods/strategies
 * Responsible for ensuring all risks are identified and attributed to the correct subsection
 * Responsible for applying risk mitigation strategies within the development plan
+* Allocated as previous assignment highlighted effective teamwork between Sera, Milly and Gregor
 
 ### Planning and Scheduling Team: Hao Yang, Xiaoyu Wei
 * Responsible for choosing development model for the creation of the prototype
 * Responsible for identifying specific tasks required to complete prototype development and creating a schedule to complete these
-*In the previous assignment, Hao and Xiaoyu were responsible for the software architecture. 
-As Hao and Xiaoyu have knowledge of inner workings of the software, and have experience of working together, they were allocated to the 'Planning and Development' section of the project.    
+* Allocated due to knowledge of inner workings of the software from the previous assignment and from personal experiences
+* Allocated as Hao and Xiaoyu are familiar with working together as they were responsible for the software architecture in the previous assignment 

@@ -1,4 +1,5 @@
-1. **The development Model**
+# Planning and Scheduling   
+## 1. The Development Model
 
    Based on the main purpose of this mission, we chose Evolutionary Prototyping development model. In the entire development process, first determine the overall architecture of the system and the specific technologies to be used in each part. Effectively dock the interface between the front and back ends and the interface between the back end and the database. Then develop the project prototype according to the UI design -> development mode. The development sequence is: main interface, login interface, community interface, game management interface, rules interface, comment interface, developer interface. After the development of each component is completed, add it to the project prototype, and then continue the development of the next component.
 
@@ -6,7 +7,7 @@
 
    
 
-2. **Work break structure**
+## 2. Work Break Structure
 
    As we already have the architecture in submission 1, we can split the whole task to small tasks (Product Hierarchy).
      ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Hierachy.png "WBS") 
@@ -56,18 +57,18 @@
        There are more details about the little tasks of the three main parts.
          ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Product.png "Little Tasks") 
 
-3.  **Tasks Dependencies**
+## 3. Tasks Dependencies
 
-    Before writing the prototype, all team members should get familiar with the software architecture and learn the techniques which will be used, including Python, Flask, CSS and so on. At the same time, the GUI designing can start, because there is not so much technical demand for this task.
+Before writing the prototype, all team members should get familiar with the software architecture and learn the techniques which will be used, including Python, Flask, CSS and so on. At the same time, the GUI designing can start, because there is not so much technical demand for this task.
     
-    At the second stage, functionalities of the software will be implemented one by one, which includes login/logout, player's homepage, game community, publisher's homepage, game rules and reviews. For each sub-task, we should firstly design the GUI and then implement the frontend and backend. At the same time, database designing can start.
+At the second stage, functionalities of the software will be implemented one by one, which includes login/logout, player's homepage, game community, publisher's homepage, game rules and reviews. For each sub-task, we should firstly design the GUI and then implement the frontend and backend. At the same time, database designing can start.
     
-    At the third stage, after all GUIs have been implemented, we can start the GUI optimization. Also, components optimization will start after all tasks of frontend/backend have been finished.
+At the third stage, after all GUIs have been implemented, we can start the GUI optimization. Also, components optimization will start after all tasks of frontend/backend have been finished.
     
-    At the final stage, the software will be deployed and released.
+At the final stage, the software will be deployed and released.
     
-    Also, software testing runs through all stages because we will use Test Driven Development (TDD).
+Also, software testing runs through all stages because we will use Test Driven Development (TDD).
 
-4.  **Gantt Chart**
+## 4. Gantt Chart
 
    ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Task_Dependencies.png "Gantt Chart")

@@ -1,6 +1,6 @@
 # Risk Analysis
 
-## Risk assessment method
+## 1. Risk assessment method
 The process of analysing risks to the project starts with identifying any and all risks which pose a threat to the development of the prototype. In order to determine these risks, a qualitative risk assessment strategy was applied. This was chosen in favour of a quantitative approach because the project did not have any monetary motivation i.e. there was no financial cost associated with delays or number of working hours like there would be for a real software development project. This means that all the risks identified impact on the quality of the prototype and the timeliness of it's development only. In addition, although a quantitative approach would make it easier to categorise and prioritise the mitigation of risks (as they can be easily ranked against each other), there are very few ways to assign a value to the different elements of this specific project, and so a qualitative, but detailed method is preferred. For every risk, the probability and impact were evaluated using categories shown below: <br> 
 * **Probability of risk**: Unlikely, Possible, Probable, Certain <br>
 * **Impact of risk**: Negligible, Moderate, Severe, Catastrophic <br>
@@ -21,14 +21,14 @@ The 7 methods identified to control risk were: <br>
 6. **Publicise** the risk to customers to minimise the shock when it occurs 
 7. **Control** the risk by altering the schedule to minimise its effect
 
-## Risk categories 
+## 2. Risk categories 
 Risks are categorised into 4 groups:
 1. **Scheduling**: risks associated with project planning, estimation and team performance
 2. **Operational**: risks associated with implementation of prototype 
 3. **Technical**: risks associated with software performance and function 
 4. **Programmatic**: risks from external sources 
 
-### Scheduling Risks 
+### 3. Scheduling Risks 
 | **Risk** | **Probability of risk** | **Impact** | **Risk Priority** | **Resolution Method** | **Resolution Strategy**|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |Uneven workload split between team members|Possible|Negligible - easily resolved and minimal impact on the final prototype's quality. Affects overall project, not task specific.|Low|Control|Split workload broadly between sub teams so team members stay focussed on their area and from here split workload based on time as opposed to number of tasks|

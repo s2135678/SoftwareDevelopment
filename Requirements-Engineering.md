@@ -51,6 +51,8 @@ The requirements are grouped into one of:
 * Could allow a user to search for games by rating.
 * Could ensure that a username contains only numbers and letters.
 * Could allow a user to compare prices of games.
+* Could allow a user to submit feedback to publishers if they encounter a bug or issue with a game.
+* Could allow a user to post a comment to a community when they encounter an bug or issue with a game.
 
 ### Won't have
 * Won't have information packed densely and inaccessibly.

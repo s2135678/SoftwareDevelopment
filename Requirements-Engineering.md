@@ -155,4 +155,10 @@ Most gamers who answered the questionnaire said they used game management/collec
 
 Gamers were also asked if there was anything they liked/didn't like about the Steam user interface. This was extremely helpful in considering the UI design of the game management product as it was apparent that navigation was often not straightforward and many found the Steam user interface to be very cluttered and displayed large amounts of superfluous and irrelevant information.
 
+Gamers were then asked whether they had ever joined a game club or community. There was a fairly even split between those who had and had not, as shown in the pie chard below.
+
+<p float="left">
+  <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/joined_game_club_or_community.png" width="49%"/>
+</p>
+
 ### Questions asked of Alistair Grant

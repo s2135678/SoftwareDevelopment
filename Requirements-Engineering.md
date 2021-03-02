@@ -130,7 +130,7 @@ A number of different capture methodologies were employed in extracting the requ
 Each will be discussed in detail below.
 
 ### Reading the Product Description
-
+Requirements capture began by reading the product brief explaining the purpose of the project and what was expected of it. This provided a wealth of information, allowing a large number of functional requirements to be established, for example it was simple to extrapolate the need for user accounts within the game management system, to allow individual users to manage their collections. Further it was simple to establish the requirement for manipulation of games within a users' collection, to allow the addition and removal of games. Additionally the product description allowed for the consideration of different types of users within the system, such as publishers and communities and the allowance of different privileges and characteristics.
 ### Questionnaire
 
 ### Questions asked of Alistair Grant

@@ -135,5 +135,6 @@ Requirements capture began by reading the product brief explaining the purpose o
 The functional requirements derived from the product description allowed the non-functional requirements to be extrapolated using common sense to dictate how the functional requirements should be implemented, given that functional requirements are what the system should do and non-functional requirements are how it should be done.
 
 ### Questionnaire
+Moving on from the product description a questionnaire was devised to be given to gamers to determine the sort of requirements they would like to see in a game management system, considering those already on the market.
 
 ### Questions asked of Alistair Grant

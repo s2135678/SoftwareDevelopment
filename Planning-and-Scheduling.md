@@ -9,7 +9,7 @@
 2. **Work break structure**
 
    As we already have the architecture in submission 1, we can split the whole task to small tasks (Product Hierarchy).
-     ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/hierachy.png "WBS") 
+     ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Hierachy.png "WBS") 
 
    There are three main parts when we develop the system:
 
@@ -54,7 +54,7 @@
         
         
        There are more details about the little tasks of the three main parts.
-         ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/product.png "Little Tasks") 
+         ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Product.png "Little Tasks") 
 
 3.  **Tasks Dependencies**
 

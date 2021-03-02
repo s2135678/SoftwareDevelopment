@@ -90,7 +90,7 @@ Also, software testing runs through all stages because we will use Test Driven D
 * Allocated due to knowledge of inner workings of the software from the previous assignment and from personal experiences
 * Allocated as Hao and Xiaoyu are familiar with working together as they were responsible for the software architecture in the previous assignment 
 
-# Team Structure for next step
+## Team Structure for next step
 
    According to the actual needs of the next stage and the different skills mastered by each member of the team, a new group structure and task assignment are designed
    * Architecture Design: Milly, Yao, Xiaoyu

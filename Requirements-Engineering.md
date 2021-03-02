@@ -170,3 +170,4 @@ Finally gamers were asked what formats they preferred in the online communities 
 </p>
 
 ### Questions asked of Alistair Grant
+A final requirements capture method which was employed was a series of questions sent to Alistair Grant who had a large amount of knowledge about games management systems and the sort of games described in the product description. 

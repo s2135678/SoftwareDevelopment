@@ -10,7 +10,7 @@ After assessing the risk probability and impact, risk priority was determined us
   <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Risk%20Analysis/Slide1.png" width="70%" />
 </p>
 
-## Risk control method
+## 2. Risk control method
 In order to mitigate the risks, a structured response is required. The goal is to address the risks now so they don't happen (or we are at least prepared for them) as opposed to waiting for something to go wrong during the development stage when there is more to lose if time is spent solving problems that could be avoided or solved earlier.
 The 7 methods identified to control risk were: <br>
 1. **Avoid** the risk by not accepting any situation that carry risk 
@@ -21,14 +21,14 @@ The 7 methods identified to control risk were: <br>
 6. **Publicise** the risk to customers to minimise the shock when it occurs 
 7. **Control** the risk by altering the schedule to minimise its effect
 
-## 2. Risk categories 
+## 3. Risk categories 
 Risks are categorised into 4 groups:
 1. **Scheduling**: risks associated with project planning, estimation and team performance
 2. **Operational**: risks associated with implementation of prototype 
 3. **Technical**: risks associated with software performance and function 
 4. **Programmatic**: risks from external sources 
 
-### 3. Scheduling Risks 
+### Scheduling Risks 
 | **Risk** | **Probability of risk** | **Impact** | **Risk Priority** | **Resolution Method** | **Resolution Strategy**|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |Uneven workload split between team members|Possible|Negligible - easily resolved and minimal impact on the final prototype's quality. Affects overall project, not task specific.|Low|Control|Split workload broadly between sub teams so team members stay focussed on their area and from here split workload based on time as opposed to number of tasks|

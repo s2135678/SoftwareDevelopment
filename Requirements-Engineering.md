@@ -48,6 +48,7 @@ The requirements are grouped into one of:
 * Could filter reviews of games.
 * Could allow a user to search for games by rating.
 * Could ensure that a username contains only numbers and letters.
+* Could allow a user to compare prices of games.
 
 ### Won't have
 
@@ -68,6 +69,7 @@ The requirements are grouped into one of:
 * Should allow a user to search for games they don't own via a search bar.
 * Should allow a user to post a review of a game in a text field on the game page.
 * Should allow a user to include a rating of a game in their review using a 5-point/star rating scale.
+* Should allow a user to navigate the system without confusion.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

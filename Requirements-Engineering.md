@@ -141,6 +141,6 @@ The responses to the questionnaire were extremely informative as they identified
 
 When asked whether they used game management/collection sites, 66.7% said they did and a further 27.8% said they did but not really.
 
-
+![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/software_design/ArchitectureDesign.jpg "software architecture") 
 
 ### Questions asked of Alistair Grant

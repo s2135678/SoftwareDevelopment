@@ -62,6 +62,7 @@ The requirements are grouped into one of:
 
 ### Won't have
 * Won't have information packed densely and inaccessibly.
+* Won't have confusing paths of buttons and systems to navigate the system.
 
 ## 1.2 Non-functional Requirements 
 The requirements are prioritised using the MOSCOW method. 
@@ -91,6 +92,7 @@ The requirements are grouped into one of:
 * Should provide the ability to enlarge font size for users with visual impairments.
 * Should have a logical interface layout.
 * Should include detailed information on games in a single place.
+* Should provide a logical control structure to allow users to interact with the system in an intuitive manner.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

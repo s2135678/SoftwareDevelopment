@@ -3,7 +3,7 @@
 
    Based on the main purpose of this mission, we chose Evolutionary Prototyping development model. In the entire development process, first determine the overall architecture of the system and the specific technologies to be used in each part. Effectively dock the interface between the front and back ends and the interface between the back end and the database. Then develop the project prototype according to the UI design -> development mode. The development sequence is: main interface, login interface, community interface, game management interface, rules interface, comment interface, developer interface. After the development of each component is completed, add it to the project prototype, and then continue the development of the next component.
 
-   ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/Evolutionary.png "Developmemnt Model") 
+   ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/planning_and_scheduling/evolutionary.png "Developmemnt Model") 
 
    
 
@@ -89,3 +89,23 @@ Also, software testing runs through all stages because we will use Test Driven D
 * Responsible for identifying specific tasks required to complete prototype development and creating a schedule to complete these
 * Allocated due to knowledge of inner workings of the software from the previous assignment and from personal experiences
 * Allocated as Hao and Xiaoyu are familiar with working together as they were responsible for the software architecture in the previous assignment 
+
+# Team Structure for next step
+
+   According to the actual needs of the next stage and the different skills mastered by each member of the team, a new group structure and task assignment are designed
+   * Architecture Design: Milly, Yao, Xiaoyu
+   * GUI Design: Sera, Gregor
+   * Database Design: Gregor
+   * Homepage & login page GUI Design: Sera
+   * Homepage & login page front/back end: Milly, Yao, Xiaoyu
+   * Community page GUI Design: Sera
+   * Community front/back end: Milly, Yao, Xiaoyu
+   * Game & publisher page GUI Design: Sera
+   * Game & publisher page front/back end: Milly, Yao, Xiaoyu
+   * Rules and Reviews page GUI Design; Sera
+   * Rules and Reviews page front/back end: Milly, Yao, Xiaoyu
+   * GUI optimization: Sera
+   * Components optimization: Milly, Yao, Xiaoyu
+   * Testing: Gregor
+   * Release Product: Milly, Yao, Xiaoyu
+

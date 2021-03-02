@@ -34,6 +34,7 @@ The requirements are grouped into one of:
 * Should allow the properties of games to be updated/changed.
 * Should check if a user already holds an account.
 * Should recommend new games to users.
+* Should provide alternative methods of accessing the system for users with visual and hearing impairments.
 
 ### Could have
 * Could allow a user to provide contact info.
@@ -74,6 +75,9 @@ The requirements are grouped into one of:
 * Should run efficiently on multiple operating systems without vast differences.
 * Should allow a user to access a navigation bar on every page of the system in an obvious location.
 * Should display information in a dark colour palette to reduce strain on users' eyes.
+* Should provide alternative colour palettes for those with colour impairments, such as colour blindness.
+* Should provide closed captions on all videos to provide accessibility to those with hearing impairments.
+* Should provide text to speech 
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

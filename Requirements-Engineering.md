@@ -53,6 +53,10 @@ The requirements are grouped into one of:
 * Could allow a user to compare prices of games.
 * Could allow a user to submit feedback to publishers if they encounter a bug or issue with a game.
 * Could allow a user to post a comment to a community when they encounter an bug or issue with a game.
+* Could allow a user to view the order in which expansion packs for games have been released.
+* Could allow a publisher to specify the date at which an expansion pack was released.
+* Could allow a user to gather a game and its related titles together.
+* Could highlight key features of expansion packs.
 
 ### Won't have
 * Won't have information packed densely and inaccessibly.
@@ -89,6 +93,9 @@ The requirements are grouped into one of:
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.
 * Could display similar related games a user might be interested in.
 * Could allow a user to search by selecting genres and types of games they are interested in.
+* Could allow a user to gather different games and their sequels and expansions under a common heading.
+* Could allow a user to view key features of expansion packs in a bulleted list on the page for the expansion pack.
+
 ### Won't have
 
 ## 1.3 Prioritisation 

@@ -153,4 +153,6 @@ Those who said they used game management/collection sites, were asked what they 
 
 Most gamers who answered the questionnaire said they used game management/collection sites to find new games to play, closely followed by using them to manage multiple games.
 
+Gamers were also asked if there was anything they liked/didn't like about the Steam user interface. This was extremely helpful in considering the UI design of the game management product as it was apparent that navigation was often not straightforward and many found the Steam user interface to be very cluttered and displayed large amounts of superfluous and irrelevant information.
+
 ### Questions asked of Alistair Grant

@@ -65,7 +65,8 @@ The requirements are grouped into one of:
 
 ### Should have
 * Should allow a user to search for games they don't own via a search bar.
-* 
+* Should allow a user to post a review of a game in a text field on the game page.
+* Should allow a user to include a rating of a game in their review using a 5-point/star rating scale.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

@@ -166,7 +166,7 @@ A further area of inquiry within the questionnaire was functionality relating to
 Finally gamers were asked what formats they preferred in the online communities they were part of. Many said they preferred Reddit type forums in which they could chat with those of similar interests in dedicated communities. A split of formats suggested by those who responded to the questionnaire is displayed below.
 
 <p float="left">
-  <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/joined_game_club_or_community.png" width="49%"/>
+  <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/jonline_community_formats.png" width="49%"/>
 </p>
 
 ### Questions asked of Alistair Grant

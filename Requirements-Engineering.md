@@ -59,6 +59,8 @@ The requirements are grouped into one of:
 * Could highlight key features of expansion packs.
 * Could allow users to discuss games in a forum within community pages.
 * Could allow reporting of inappropriate behaviour within discussion areas of communities within the system.
+* Could allow a user to reply to comments or questions posed in community forums on the system.
+* Could notify a user when a question or comment has been replied to.
 
 ### Won't have
 * Won't have information packed densely and inaccessibly.
@@ -102,6 +104,7 @@ The requirements are grouped into one of:
 * Could allow a user to view key features of expansion packs in a bulleted list on the page for the expansion pack.
 * Could allow a user to report other users if they are behaving inappropriately in discussion areas of the communities on the system.
 * Could implement a forum or chat room system within communities on the system, allowing discussion of games of interest within the community.
+* Could implement an notification inbox for users to quickly and simply access and view responses to their comments in communities.
 
 ### Won't have
 

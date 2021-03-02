@@ -7,7 +7,7 @@ The aim of the project is to create an online space for players to manage, explo
 3. [UI Design](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/UI_design)
 4. [Team Structure](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Team_structure)
 
-The team structure section has been updated to include details for submission 2.
+EDIT: The team structure section has been updated to include details for submission 2 and the requirements engineering has been expanded significantly.
 
 ### Submission 2:
 1. [Risk Analysis](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Risk-Analysis)

@@ -71,6 +71,9 @@ The requirements are grouped into one of:
 * Should allow a user to include a rating of a game in their review using a 5-point/star rating scale.
 * Should allow a user to navigate the system without confusion.
 * Should provide detailed descriptions of games.
+* Should run efficiently on multiple operating systems without vast differences.
+* Should allow a user to access a navigation bar on every page of the system in an obvious location.
+* Should display information in a dark colour palette to reduce strain on users' eyes.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

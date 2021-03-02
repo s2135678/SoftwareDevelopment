@@ -57,6 +57,7 @@ The requirements are grouped into one of:
 * Could allow a publisher to specify the date at which an expansion pack was released.
 * Could allow a user to gather a game and its related titles together.
 * Could highlight key features of expansion packs.
+* Could allow users to discuss games in a forum within community pages.
 
 ### Won't have
 * Won't have information packed densely and inaccessibly.
@@ -88,6 +89,7 @@ The requirements are grouped into one of:
 * Should provide text to speech for users with visual impairments.
 * Should provide the ability to enlarge font size for users with visual impairments.
 * Should have a logical interface layout.
+* Should include detailed information on games in a single place.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

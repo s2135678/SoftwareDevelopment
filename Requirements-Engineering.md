@@ -170,4 +170,4 @@ Finally gamers were asked what formats they preferred in the online communities 
 </p>
 
 ### Questions asked of Alistair Grant
-A final requirements capture method which was employed was a series of questions sent to Alistair Grant who had a large amount of knowledge about games management systems and the sort of games described in the product description. 
+A final requirements capture method which was employed was a series of questions sent to Alistair Grant who had a large amount of knowledge about games management systems and the sort of games described in the product description. It was from Alistair's responses it was found that a separate user interface for game publishers, which would allow them to post updates, interact with the community, and review feedback, would be a highly useful prospect, particularly for loading in data and viewing statistics. However, Alistair did stress that users would need to agree to this and would it be a case of a different interface or simply a different aspect of the main interface.

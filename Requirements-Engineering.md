@@ -70,6 +70,7 @@ The requirements are grouped into one of:
 * Should allow a user to post a review of a game in a text field on the game page.
 * Should allow a user to include a rating of a game in their review using a 5-point/star rating scale.
 * Should allow a user to navigate the system without confusion.
+* Should provide detailed descriptions of games.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

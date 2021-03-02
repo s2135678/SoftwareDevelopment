@@ -81,6 +81,7 @@ The requirements are grouped into one of:
 * Should provide closed captions on all videos to provide accessibility to those with hearing impairments.
 * Should provide text to speech for users with visual impairments.
 * Should provide the ability to enlarge font size for users with visual impairments.
+* Should have a logical interface layout.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

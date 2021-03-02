@@ -155,7 +155,15 @@ Most gamers who answered the questionnaire said they used game management/collec
 
 Gamers were also asked if there was anything they liked/didn't like about the Steam user interface. This was extremely helpful in considering the UI design of the game management product as it was apparent that navigation was often not straightforward and many found the Steam user interface to be very cluttered and displayed large amounts of superfluous and irrelevant information.
 
-Gamers were then asked whether they had ever joined a game club or community. There was a fairly even split between those who had and had not, as shown in the pie chard below.
+Gamers were then asked whether they had ever joined a game club or community, either online or in person. There was a fairly even split between those who had and had not, as shown in the pie chart below, with the majority saying that they had not.
+
+<p float="left">
+  <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/joined_game_club_or_community.png" width="49%"/>
+</p>
+
+A further area of inquiry within the questionnaire was functionality relating to expansion packs for games. It was realised from the responses that many users would like their games and expansion packs to be grouped conveniently together.
+
+Finally gamers were asked what formats they preferred in the online communities they were part of. Many said they preferred Reddit type forums in which they could chat with those of similar interests in dedicated communities. A split of formats suggested by those who responded to the questionnaire is displayed below.
 
 <p float="left">
   <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/joined_game_club_or_community.png" width="49%"/>

@@ -77,7 +77,8 @@ The requirements are grouped into one of:
 * Should display information in a dark colour palette to reduce strain on users' eyes.
 * Should provide alternative colour palettes for those with colour impairments, such as colour blindness.
 * Should provide closed captions on all videos to provide accessibility to those with hearing impairments.
-* Should provide text to speech 
+* Should provide text to speech for users with visual impairments.
+* Should provide the ability to enlarge font size for users with visual impairments.
 
 ### Could have
 * Could allow games to have properties such as type (board game or card game etc), price, status (available, new version available, etc), average rating and rules.

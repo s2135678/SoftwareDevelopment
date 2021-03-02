@@ -122,7 +122,7 @@ Requirements were categorised as 'Must' if the functionality is core to the game
 Requirements that have high risk (i.e. we are unfamiliar with methods to achieve the functionality) were also placed into 'Must'. 
 
 ## 1.4 Capture Methodology 
-* Document describing the requirements 
-* Questionnaires were sent to gamers  
-* Asking Allistair questions for clarification
-* Due to COVID face-to-face interviews were not carried out  
+A number of different capture methodologies were employed in extracting the requirements for this project, specifically:
+* Reading the Product Description.
+* A questionnaire given to gamers.
+* Questions sent to Alistair Grant for clarification.

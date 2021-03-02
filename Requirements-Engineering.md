@@ -118,6 +118,7 @@ Requirements were grouped into four categories:
 * Would(W) 
 
 Requirements were categorised as 'Must' if the functionality is core to the game collection management and sourcing.
+
 Requirements that have high risk (i.e. we are unfamiliar with methods to achieve the functionality) were also placed into 'Must'. 
 
 ## 1.4 Capture Methodology 

@@ -137,4 +137,10 @@ The functional requirements derived from the product description allowed the non
 ### Questionnaire
 Moving on from the product description a questionnaire was devised to be given to gamers to determine the sort of requirements they would like to see in a game management system, considering those already on the market.
 
+The responses to the questionnaire were extremely informative as they identified a number of requirements both functional and non-functional which had not been considered by the development team or elucidated in the product description.
+
+When asked whether they used game management/collection sites, 66.7% said they did and a further 27.8% said they did but not really.
+
+
+
 ### Questions asked of Alistair Grant

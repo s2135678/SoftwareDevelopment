@@ -112,10 +112,10 @@ The requirements are grouped into one of:
 
 ## 1.3 Prioritisation 
 Requirements were grouped into four categories: 
-* Must(M)
-* Should(S)
-* Could(C) 
-* Would(W) 
+* Must have (M)
+* Should have (S)
+* Could have (C) 
+* Won't have (W) 
 
 Requirements were categorised as 'Must' if the functionality is core to the game collection management and sourcing.
 

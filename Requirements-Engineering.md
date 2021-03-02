@@ -142,7 +142,7 @@ The responses to the questionnaire were extremely informative as they identified
 When asked whether they used game management/collection sites, 66.7% said they did, a further 27.8% said they did but not really and a final 5.6%  said they never used game management/collection sites.
 
 <p float="left">
-  <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/do_you_use_game_collection_sites.png" width="49%" style="align:middle"/>
+  <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Project Requirements/do_you_use_game_collection_sites.png" width="49%"/>
 </p>
 
 ### Questions asked of Alistair Grant

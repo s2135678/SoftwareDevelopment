@@ -14,7 +14,7 @@ EDIT: The team structure section has been updated to include details for submiss
 2. [Planning and Scheduling](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Planning-and-Scheduling)
 
 ### Submission 3:
-1. Product Prototype
-2. Usability Test Plan
-3. Usability Analysis
-4. Prototype and Project Evaluation
+1. [Product Prototype](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Product-Prototype)
+2. [Usability Test Plan](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Usability-Test-Plan)
+3. [Usability Analysis](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Usability-Analysis)
+4. [Prototype and Project Evaluation](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Prototype-and-Project-Evaluation)

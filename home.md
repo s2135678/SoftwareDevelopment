@@ -12,3 +12,9 @@ EDIT: The team structure section has been updated to include details for submiss
 ### Submission 2:
 1. [Risk Analysis](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Risk-Analysis)
 2. [Planning and Scheduling](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/wikis/Planning-and-Scheduling)
+
+### Submission 3:
+1. Product Prototype
+2. Usability Test Plan
+3. Usability Analysis
+4. Prototype and Project Evaluation

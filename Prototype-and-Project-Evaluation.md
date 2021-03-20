@@ -2,7 +2,7 @@
 
 The prototype can be found here: [prototype source code](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/tree/master/Prototype)
 
-## Which of original criteria does prototype accomplish?
+## Original Criteria
 The prototype implements the login/sign up process and the game management functionality for a user's profile, where users are able to add, remove, view, and rate games which are registered in the system.
 This is implemented in a command line user interface with clear instructions on how to progress to the next page of the system, or return to a previous page at each stage.
 
@@ -13,7 +13,7 @@ This is implemented in a command line user interface with clear instructions on 
 * View/add to a game's reviews
 * Store data on file system
 
-## Has the design been altered/replaced? Why?
+## Alterations
 The original control flows for the homepage (which encompasses the login functionality) and the game management are shown here:
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/UI_design/Homepage%20.jpg)
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/UI_design/Player.jpg)

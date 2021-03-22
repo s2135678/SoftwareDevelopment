@@ -46,5 +46,7 @@ Since the success rate was lower here when compared to 'difficulty rating' quest
 
 ### 3.2.2 Qualitative Analysis
 
+<img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide1.jpeg" width="60%"/>
+
 ## 3.3 Conclusion
 conclusions reached and the impact of these results on the design of the prototype’s user interface

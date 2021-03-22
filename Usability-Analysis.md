@@ -15,18 +15,16 @@ Link to questionnaire: https://docs.google.com/forms/d/e/1FAIpQLSeK5sfJahLyPbnxd
 Any changes to plan 
 
 ## 3.2 Usability Testing Result Analysis
-The questionnaire received 20 responses and results were analysed quantitatively or qualitatively depending on the type of question.
-'Difficuly rating' and 'correct/incorrect answer' questions were analysed with quantitative approach, while the rest were evaluated qualitatively. 
+The questionnaire received 20 responses. Results were analysed either quantitatively or qualitatively depending on the type of question.
+'Difficulty rating' and 'correct/incorrect answer' questions were analysed with quantitative approach, while the rest were evaluated qualitatively. 
 
 ### 3.2.1 Quantitative Analysis
-7 'difficulty rating' and 9 'correct/incorrect' questions were analysed based on the success and failure criteria outlined in section 2.1.1. 
-Overall, participants were able to complete tasks successfully 92% of the time. High success rate suggests a good overall user experience. 
+7 'difficulty rating' and 9 'correct/incorrect' questions were analysed based on the success and failure criteria outlined in section 2.1.1. For each question (16 questions in total), 20 responses were categorised as either 'success' or 'failure'. Subsequently, success and failure counts were summed and are presented as percentages below. On the whole, participants were able to complete tasks successfully 92% of the time. This high success rate indicates that our GUI mockup satisfies the three usability testing goals outlined in section 2.   
 
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide1.jpeg" width="60%"/>
 
 #### Difficulty rating questions 
-At least one 'difficulty rating' question was asked on each GUI mockup. 
-The successful task completion rate was 95%, suggesting that almost all participants found our GUI mockup easy to use and navigate. 
+At least one 'difficulty rating' question was asked on each GUI mockup. Similar to above, 20 responses on 7 questions were identified as either success or failure. The counts were summed and are presented as percentages in the pie chart below. The successful task completion rate was 95%, suggesting that almost all participants found our GUI mockup easy to use and navigate. 
 
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide2.jpeg" width="60%"/>
 
@@ -37,18 +35,11 @@ Majority of participants selected ratings 0, 1 and 2, with few selecting options
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide3.jpeg" width="60%"/>
 
 #### Correct or Incorrect questions 
-At least one 'correct/incorrect answer' question were asked on each GUI mockup. 
-These questions were used to evaluate whether core functionalities were divided into logical units for participants. 
-On the whole, 90% of participants were able to complete tasks successfully.
+At least one 'correct/incorrect answer' question was asked on each GUI mockup. Once again, 20 responses on 9 questions were grouped as either success or failure. These counts were summed and are presented as percentages in the pie chart below. Some of these questions were aimed at determining whether core functionalities were divided into logical units that are obvious to users. On the whole, 90% of participants were able to complete tasks successfully.
 
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide4.jpeg" width="60%"/>
 
-However, since the success rate was lower here compared to 'difficulty rating' questions, success and failure counts were broken down into individual questions.
-On the whole, success counts were much greater than failure counts in all 9 questions. 
-However, the last two questions, Q14 and Q15, appear to have higher failure rate than other questions.
-Q14 and Q15 were both navigation questions such as 'If you wanted to go to Account Settings from here, where would you click?'
-Lower success rates on these questions suggest that the division of functionalities into units is not logical and obvious to some users. 
-Perhaps, having separate options on navigation bar instead of organising into subunits using dropdown options is better. 
+Since the success rate was lower here when compared to 'difficulty rating' questions, success and failure counts were broken down into individual questions. On the whole, success counts were much greater than failure counts in all 9 questions. However, the last two questions, Q14 and Q15, appear to have higher failure rate than other questions. Q14 and Q15 were questions aimed to test whether core functionalities were divided into logical units that are obvious to users. For example, Q14 was 'From Account Settings, if you wanted to see your collection of games, where would you click?'. Lower success rates on these questions suggest that the division of functionalities into units is not logical and obvious to some users. Perhaps, having separate options on navigation bar instead of organising into subunits using dropdown options is a better approach. 
 
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide5.jpeg" width="60%"/>
 

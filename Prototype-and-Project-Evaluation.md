@@ -1,8 +1,8 @@
-# Prototype Evolution
+# 4 Prototype Evolution
 
 The prototype can be found here: [prototype source code](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/tree/master/Prototype)
 
-## Original Criteria
+## 4.1 Original Criteria
 The prototype implements the login/sign up process and the game management functionality for a user's profile, where users are able to add, remove, view, and rate games which are registered in the system.
 This is implemented in a command line user interface with clear instructions on how to progress to the next page of the system, or return to a previous page at each stage.
 
@@ -13,7 +13,7 @@ This is implemented in a command line user interface with clear instructions on 
 * View/add to a game's reviews
 * Store data on file system
 
-## Alterations
+## 4.2 Alterations
 The original control flows for the homepage (which encompasses the login functionality) and the game management are shown here:
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/UI_design/Homepage%20.jpg)
 ![](https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/UI_design/Player.jpg)
@@ -29,10 +29,10 @@ At present, users can view the games they already own after logging in, and sele
 
 Compared with the system architecture made before, the current reading and storing of data does not operate through a database, but simply reads and writes to corresponding json files. The original plan was to publish this project to a cloud server with sufficient load capacity to run. At the same time, there are good front-end pages for the user to interact with. But at present, only u has a prototype of a part of the back-end logic part, and realizes the most basic part.
 
-## Evaluation of planned schedule and tasks
+## 4.3 Evaluation of planned schedule and tasks
 The workplan set out in submission two was almost completely disregarded as, following communiction with the client, it was made clear that the prototype required significantly fewer features than originally planned for. Although this meant that the planned schedule was not followed, it meant that the team could be split more appropriately between tasks as opposed to all members working on different elements of the prototype to then be combined, which could results in a less cohesive final protoype.
 
-### Future work
+## 4.4 Future work
 The plan, however, is still valid going forward if full functionality is to be implemented as an extension. The same main structure and separation of tasks could be applied to the process of expanding the prototype. The list of funcionalities mentioned previously, which are yet to be implemented would be allocated between the using the same system.
 
 The additional core functionalities which would be the priority to implement are:
@@ -41,9 +41,9 @@ The additional core functionalities which would be the priority to implement are
 
 Once these core functionalities are implemented, further extensions could be made. The function of the comment section will be further improved. Next the development of the function of the game community, and compatibility with the game review function, so that the two can work alongside each other. Then would be the completion of the design of the front-end page, complete the front-end interaction through appropriate adjustments, and storage of the data on the database, and deployment of the database on the cloud server. Finally a game system would be built where users can interact with the system through the front end, manipulate data from the database at the back end, and effectively interact between the front and back ends. The development and optimisation of the publisher interface, and assoiated authority for this interface would be the final stage of production. 
 
-# Team structure evaluation
-In the final submission, the team was structured as follows:
+## 4.5 Team structure evaluation
 
+### 4.5.1 Submission 3:
 ### Project Manager: Milly Kinghorn
 * Responsibilities as with previous submissions
 
@@ -57,7 +57,7 @@ In the final submission, the team was structured as follows:
 * Responsible for development and deployment of tests
 * Responsible for the analysis of usability tests and presenting results
 
-### Evaluation
+### 4.5.2 Evaluation
 The original team structure plan was very clear in the flexibility that was expected throughout the project Each of the three submissions required a very different set of skills and so no particular roles were assigned. For example, it would have been innapropriate to have "software developer" and "UI designer" as these roles would only be relevant for one of the submission. There was however, an overlap in the knowledge of different areas of the software which made for a more natural fit to certain roles. For example, Hao and Xiaoyu were initially responsible for the software design in submission 1. This meant that, although everyone in the group understood the principles, they had a deeper knowledge of the technical details required. This  meant that when implementin the prototype, they took on the majority of responsibility with the programming involved in producing a viable and working product.
 
 As part of the risk analysis, we identified a number of risks posed by issues in the team. These were all mitigated as detailed in the analysis and as a result the team structure had no negative impact on the subsequent submission.

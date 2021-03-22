@@ -14,8 +14,7 @@ In the questionnaire, each mockup is shown as an image and tasks are presented t
 There are two types of multiple choice questions: <br>
 
 **1. Difficulty rating** <br>
-In this type of question, participants are asked to rate how difficult they found it to complete the task.
-The scales used for difficulty rating are shown below. 
+In this type of question, participants are asked to rate how difficult they found to complete the task using the mockup. The rating scales are shown below. 
 We chose to use the following scale instead of the generic scale (very easy, easy, neutral, difficult, very difficult) 
 as it is more tailored to our test and it is easier for participants to relate to. An example question would be 'If you wanted to add games using this webpage, how difficult would you find this task?'. 
 

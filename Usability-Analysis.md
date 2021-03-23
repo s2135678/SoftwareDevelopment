@@ -51,6 +51,7 @@ Since the success rate was lower here when compared to 'difficulty rating' quest
 
 ### 3.2.2 Qualitative Analysis
 
+In total there were 
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/word_cloud.png" width="60%"/>
 
 ## 3.3 Conclusion

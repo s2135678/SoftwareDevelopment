@@ -67,10 +67,9 @@ The main aims of the usability testing, were to evaluate three aspects of the sy
 
 Given the most frequent responses mentioned above, the aspects of the system GUI which were intended to be evaluated have been found to be fulfilled successfully.
 
-Conversely, the responses which followed those mentioned above in terms of frequency were "Dull" and "Plain". 
+Conversely, the responses which followed those mentioned above in terms of frequency were "Dull" and "Plain". This suggests that despite the spartan design of the system supporting organisation and simplicity it was perceived by participants to be monotone and largely unembellished as can be deduced from the frequency with which participants responded with the adjectives "Dull" and "Plain". However this may have simply been dependant on the individual tastes of the participants as another prevalent adjective demonstrated in the word cloud below is "Neat", implying that for some the clean and minimal design proved orderly and precise.
 
-This suggests that despite the spartan design of the system supporting organisation and simplicity it was perceived by participants to be monotone and largely unembellished as can be deduced from the frequency with which participants responded with the adjectives "Dull" and "Plain". However this may have simply been dependant on the individual tastes of the participants as another prevalent adjective demonstrated in the word cloud below is "Neat", implying that for some the clean and minimal design proved orderly and precise.
-
+<img
 src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/word_cloud.png" width="60%"/>
 
 Compared with Q18, Q19 was far less likely to be answered, with half of the 20 participants failing to enter a response. A possible explanation is that as the final question of the questionnaire, participants may have become fatigued as the questionnaire was admittedly rather involved. Additionally participants may not have encountered difficulties they felt worth mentioning or had any improvement suggestions.

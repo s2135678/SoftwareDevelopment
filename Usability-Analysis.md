@@ -51,11 +51,16 @@ Since the success rate was lower here when compared to 'difficulty rating' quest
 
 ### 3.2.2 Qualitative Analysis
 
-In total there were three qualitative questions in the usability testing questionnaire. These questions consisted of:
-1. Asking the participant how likely they would be to use the system.
-2. Asking the participant to choose 3 adjectives to describe their overall experience with the system.
-3. Asking if the participant found something difficult or if they had any improvement suggestions.
+In total there were two qualitative questions in the usability testing questionnaire, Q18 and Q19.
 
+These questions consisted of:
+1. Asking the participant to choose 3 adjectives to describe their overall experience with the system.
+2. Asking if the participant found something difficult or if they had any improvement suggestions.
+
+Compared with Q18, Q19 was far less likely to be answered, with half of the 20 participants failing to enter a response. A possible explanation is that as the final question of the questionnaire, participants may have become fatigued as the questionnaire was admittedly rather involved.
+
+Q19-10
+Q18-1
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/word_cloud.png" width="60%"/>
 
 ## 3.3 Conclusion

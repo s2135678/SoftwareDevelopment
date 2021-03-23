@@ -74,7 +74,11 @@ src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Te
 
 Compared with Q18, Q19 was far less likely to be answered, with half of the 20 participants failing to enter a response. A possible explanation is that as the final question of the questionnaire, participants may have become fatigued as the questionnaire was admittedly rather involved. Additionally participants may not have encountered difficulties they felt worth mentioning or had any improvement suggestions.
 
-Those participants that responded to Q19 had a number of useful suggestions.
+Those participants that responded to Q19 had a number of useful suggestions. A common issue participants had with the system was in navigation which does bring the navigational aspect of the system into question. Specifically participants did not like the fact that they were required to click through the different aspects of the site via the navigational bar at the top of every page.
+
+Another common issue experienced by the participants was in finding their games within the system, not immediately realising that game collections resided in the profile page within the system. This ambiguity in the location of game collections is something that would be addressed in future design decisions.
+
+Finally the most common complaint of participants was that the system GUI was unattractive and desolate, as discussed above this may have been due to differing tastes of the participants however a more colourful and aesthetic design is likely to have been produced with successive iterations of the system, given that the system displayed to the participants of the questionnaire was merely a mockup of the potential system.
 
 ## 3.3 Conclusion
 conclusions reached and the impact of these results on the design of the prototype’s user interface

@@ -13,10 +13,11 @@ Link to questionnaire: https://docs.google.com/forms/d/e/1FAIpQLSeK5sfJahLyPbnxd
 
 ## 3.1 Changes to plan
 
-Overall there was a limited deviation from the original usability test plan. The number of participants was less than expected which has the potential to affect the quantitative results of the questionnaire however it unlikely that this affect will be sufficiently detrimental to invalidate the amassed results.
+Overall there was a limited deviation from the original usability test plan. The number of participants was less than expected which has the potential to affect the quantitative results of the questionnaire however it unlikely that this effect will be sufficiently detrimental to invalidate the amassed results.
 
 The gender distribution of participants is believed to have remained consistent with that expected in the test plan, as the questionnaire was distributed in groups of approximately similar numbers of male and female users as was mentioned in the usability test plan.
 
+Finally, the analysis performed on the results of the usability questionnaire was conducted as outlined in the usability test plan, specifically statistical methods were applied to quantitative data and qualitative data was interpreted via inspection and the application of a word cloud.
 
 ## 3.2 Usability Testing Result Analysis
 The questionnaire received 20 responses. Results were analysed either quantitatively or qualitatively depending on the type of question.

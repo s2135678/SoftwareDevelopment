@@ -48,6 +48,7 @@ Since the success rate was lower here when compared to 'difficulty rating' quest
 
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide5.jpeg" width="60%"/>
 
+(Q17 seems to be a quantitative question given that the number of responses to this question can be evaluated statistically, could be an idea to add a bit about that).
 
 ### 3.2.2 Qualitative Analysis
 

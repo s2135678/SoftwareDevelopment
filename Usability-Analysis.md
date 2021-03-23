@@ -57,6 +57,7 @@ These questions consisted of:
 1. Asking the participant to choose 3 adjectives to describe their overall experience with the system.
 2. Asking if the participant found something difficult or if they had any improvement suggestions.
 
+In Q18 participants provided a number of responses which were collated into a word cloud as shown below.
 Compared with Q18, Q19 was far less likely to be answered, with half of the 20 participants failing to enter a response. A possible explanation is that as the final question of the questionnaire, participants may have become fatigued as the questionnaire was admittedly rather involved.
 
 Q19-10

@@ -51,7 +51,11 @@ Since the success rate was lower here when compared to 'difficulty rating' quest
 
 ### 3.2.2 Qualitative Analysis
 
-In total there were 
+In total there were three qualitative questions in the usability testing questionnaire. These questions consisted of:
+1. Asking the participant how likely they would be to use the system.
+2. Asking the participant to choose 3 adjectives to describe their overall experience with the system.
+3. Asking if the participant found something difficult or if they had any improvement suggestions.
+
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/word_cloud.png" width="60%"/>
 
 ## 3.3 Conclusion

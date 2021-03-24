@@ -48,8 +48,6 @@ Since the success rate was lower here when compared to 'difficulty rating' quest
 
 <img src="https://git.ecdf.ed.ac.uk/sd202021groups/group_10/raw/master/Usability%20Testing/Slide5.jpeg" width="60%"/>
 
-(Q17 seems to be a quantitative question given that the number of responses to this question can be evaluated statistically, could be an idea to add a bit about that).
-
 ### 3.2.2 Qualitative Analysis
 
 In total there were two qualitative questions in the usability testing questionnaire, Q18 and Q19.
@@ -60,7 +58,7 @@ These questions consisted of:
 
 In Q18 participants provided a number of responses which were collated into a word cloud as shown below. It can be seen that the most frequent responses were "Clear", "Organised" and "Simple" which fulfils the intentions of the mockup, as the system was designed to be above all straightforward and accessible, regardless of computer background. 
 
-The main aims of the usability testing, were to evaluate three aspects of the system GUI, these include:
+The main aims of the usability testing were to evaluate three aspects of the system GUI, these include:
 
 1. Easy to navigate.
 2. Easy to complete tasks.
@@ -84,4 +82,4 @@ Another common issue experienced by the participants was in finding their games 
 Finally, the most common complaint of participants was that the system GUI was unattractive and desolate, as discussed above this may have been due to differing tastes of the participants however a more colourful and aesthetic design is likely to have been produced with successive iterations of the system, given that the system displayed to the participants of the questionnaire was merely a mockup of the potential system.
 
 ## 3.3 Conclusion
-conclusions reached and the impact of these results on the design of the prototype’s user interface
+Overall, analyses indicate that our GUI mockup successfully fulfils the testing goals outlined in section 2. However, some flaws in navigation aspect of the system were raised in qualitative analysis. While producing a system that satisfies all users is not possible due to individual preferences, we decided to place all navigation options on the navigation bar instead of grouping options with dropdown menus. We have also concluded that a help manual is a necessity.  

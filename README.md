@@ -1,8 +1,8 @@
 # Software Development project 
 
-2-month project (group of 5) on developing a game management web application (e.g. Steam). 
-This project was part of the MSc Bioinformatics program (Software Development module) at Univeristy of Edinburgh. 
-Our final report is divided into sub-section as markdown files. Please see in this order: 
+In this 2-month project, we (group of 5) designed and planned a game management web application and developed a prototype. 
+This project was conducted as a part of the MSc Bioinformatics program (Software Development module) at Univeristy of Edinburgh (2021). 
+Our final report is made up of sub-sections written as markdown files. Please see in this order: 
 
 1. Requirements-Engineering.md
 2. Team-Structure.md
